@@ -1,0 +1,743 @@
+Nombre,Apellido,Genero,Edad,Estatura,Peso,HistorialFamiliar,ConsumeCalorias,ComidasDiarias,AlimentosEntreComidas,Fuma,Agua,ControlCalorias,FrecuenciaEjercicio,TiempoRecreacion,ConsumoAlcohol,MedioTransporte,Obesidad,IMC,CategoriaIMC,ActividadFísica,RiesgoSalud,Hidratación
+Wendy,Greene,Femenino,21.0,1.62,64.0,yes,no,3,Sometimes,no,2,no,0,1,no,Public_Transportation,Normal_Weight,24.39,Normal weight,Sedentary,Moderate,Poorly hydrated
+Martha,Jones,Femenino,21.0,1.52,56.0,yes,no,3,Sometimes,yes,3,yes,3,0,Sometimes,Public_Transportation,Normal_Weight,24.24,Normal weight,Active,High,Poorly hydrated
+David,Curtis,Masculino,23.0,1.8,77.0,yes,no,3,Sometimes,no,2,no,2,1,Frequently,Public_Transportation,Normal_Weight,23.77,Normal weight,Moderately active,High,Poorly hydrated
+Crystal,Solis,Femenino,27.0,1.8,87.0,no,no,3,Sometimes,no,2,no,2,0,Frequently,Walking,Overweight_Level_I,26.85,Overweight,Moderately active,Moderate,Poorly hydrated
+Stephanie,Vasquez,Femenino,22.0,1.78,89.8,no,no,1,Sometimes,no,2,no,0,0,Sometimes,Public_Transportation,Overweight_Level_II,28.34,Overweight,Sedentary,Moderate,Poorly hydrated
+Keith,Prince,Masculino,29.0,1.62,53.0,no,yes,3,Sometimes,no,2,no,0,0,Sometimes,Automobile,Normal_Weight,20.2,Normal weight,Sedentary,Moderate,Poorly hydrated
+Renee,Jacobs,Femenino,23.0,1.5,55.0,yes,yes,3,Sometimes,no,2,no,1,0,Sometimes,Motorbike,Normal_Weight,24.44,Normal weight,Moderately active,High,Poorly hydrated
+Kimberly,Lee,Femenino,22.0,1.64,53.0,no,no,3,Sometimes,no,2,no,3,0,Sometimes,Public_Transportation,Normal_Weight,19.71,Normal weight,Active,Moderate,Poorly hydrated
+Amanda,Gallagher,Femenino,24.0,1.78,64.0,yes,yes,3,Sometimes,no,2,no,1,1,Frequently,Public_Transportation,Normal_Weight,20.2,Normal weight,Moderately active,High,Poorly hydrated
+Larry,Miller,Masculino,22.0,1.72,68.0,yes,yes,3,Sometimes,no,2,no,1,1,no,Public_Transportation,Normal_Weight,22.99,Normal weight,Moderately active,Moderate,Poorly hydrated
+Heather,Evans,Femenino,26.0,1.85,105.0,yes,yes,3,Frequently,no,3,no,2,2,Sometimes,Public_Transportation,Obesity_Type_I,30.68,Obesity Class I,Moderately active,High,Poorly hydrated
+Theresa,Shelton,Femenino,21.0,1.72,80.0,yes,yes,3,Frequently,no,2,yes,2,1,Sometimes,Public_Transportation,Overweight_Level_II,27.04,Overweight,Moderately active,High,Poorly hydrated
+Angela,Leonard,Femenino,22.0,1.65,56.0,no,no,3,Sometimes,no,3,no,2,0,Sometimes,Public_Transportation,Normal_Weight,20.57,Normal weight,Moderately active,Moderate,Poorly hydrated
+Elizabeth,Munoz,Femenino,41.0,1.8,99.0,no,yes,3,Sometimes,no,2,no,2,1,Frequently,Automobile,Obesity_Type_I,30.56,Obesity Class I,Moderately active,Moderate,Poorly hydrated
+Rachel,Lee,Femenino,23.0,1.77,60.0,yes,yes,1,Sometimes,no,1,no,1,1,Sometimes,Public_Transportation,Normal_Weight,19.15,Normal weight,Moderately active,High,Poorly hydrated
+Robert,Rhodes,Masculino,22.0,1.7,66.0,yes,no,3,Always,no,2,yes,2,1,Sometimes,Public_Transportation,Normal_Weight,22.84,Normal weight,Moderately active,High,Poorly hydrated
+Michelle,Clark,Femenino,27.0,1.93,102.0,yes,yes,1,Sometimes,no,1,no,1,0,Sometimes,Public_Transportation,Overweight_Level_II,27.38,Overweight,Moderately active,High,Poorly hydrated
+Jay,Flynn,Masculino,29.0,1.53,78.0,no,yes,1,Sometimes,no,2,no,0,0,no,Automobile,Obesity_Type_I,33.32,Obesity Class I,Sedentary,Low,Poorly hydrated
+Robert,Hernandez,Masculino,30.0,1.71,82.0,yes,yes,4,Frequently,yes,1,no,0,0,no,Automobile,Overweight_Level_II,28.04,Overweight,Sedentary,High,Poorly hydrated
+Larry,Cox,Masculino,23.0,1.65,70.0,yes,no,1,Sometimes,no,2,no,0,0,Sometimes,Public_Transportation,Overweight_Level_I,25.71,Overweight,Sedentary,High,Poorly hydrated
+Elizabeth,Schaefer,Femenino,22.0,1.65,80.0,yes,no,3,Sometimes,no,2,no,3,2,no,Walking,Overweight_Level_II,29.38,Overweight,Active,Moderate,Poorly hydrated
+Alexis,Perez,Femenino,52.0,1.69,87.0,yes,yes,1,Sometimes,yes,2,no,0,0,no,Automobile,Obesity_Type_I,30.46,Obesity Class I,Sedentary,High,Poorly hydrated
+Jennifer,Munoz,Femenino,22.0,1.65,60.0,yes,yes,3,Sometimes,no,2,no,1,0,Sometimes,Automobile,Normal_Weight,22.04,Normal weight,Moderately active,High,Poorly hydrated
+Derrick,Kim,Masculino,22.0,1.6,82.0,yes,yes,1,Sometimes,no,2,no,0,2,Sometimes,Public_Transportation,Obesity_Type_I,32.03,Obesity Class I,Sedentary,High,Poorly hydrated
+Stacey,Alexander,Femenino,21.0,1.85,68.0,yes,yes,3,Sometimes,no,2,no,0,1,Sometimes,Public_Transportation,Normal_Weight,19.87,Normal weight,Sedentary,High,Poorly hydrated
+Heather,Sullivan,Femenino,20.0,1.6,50.0,yes,no,4,Frequently,yes,2,no,3,2,no,Public_Transportation,Normal_Weight,19.53,Normal weight,Active,High,Poorly hydrated
+David,Lewis,Masculino,21.0,1.7,65.0,yes,yes,1,Frequently,no,2,no,1,2,Always,Walking,Normal_Weight,22.49,Normal weight,Moderately active,Moderate,Poorly hydrated
+Karina,Phillips,Femenino,23.0,1.6,52.0,no,yes,4,Frequently,no,2,no,2,1,Sometimes,Automobile,Normal_Weight,20.31,Normal weight,Moderately active,Moderate,Poorly hydrated
+Garrett,Simmons,Masculino,19.0,1.75,76.0,yes,yes,3,Sometimes,no,2,yes,3,1,Sometimes,Public_Transportation,Normal_Weight,24.82,Normal weight,Active,High,Poorly hydrated
+Brandon,Griffin,Masculino,23.0,1.68,70.0,no,yes,3,Sometimes,no,2,no,2,2,Frequently,Walking,Normal_Weight,24.8,Normal weight,Moderately active,Moderate,Poorly hydrated
+Jerome,Fritz,Masculino,29.0,1.77,83.0,no,yes,4,Frequently,no,3,no,0,1,no,Motorbike,Overweight_Level_I,26.49,Overweight,Sedentary,Low,Poorly hydrated
+Kayla,Johnson,Femenino,31.0,1.58,68.0,yes,no,1,Sometimes,no,1,no,1,0,Sometimes,Public_Transportation,Overweight_Level_II,27.24,Overweight,Moderately active,High,Poorly hydrated
+Jessica,Edwards,Femenino,24.0,1.77,76.0,no,no,3,Sometimes,no,3,no,1,1,Sometimes,Walking,Normal_Weight,24.26,Normal weight,Moderately active,Moderate,Poorly hydrated
+Jeffrey,Douglas,Masculino,39.0,1.79,90.0,no,no,1,Sometimes,no,2,no,0,0,Sometimes,Public_Transportation,Overweight_Level_II,28.09,Overweight,Sedentary,Moderate,Poorly hydrated
+Jennifer,Frey,Femenino,22.0,1.65,62.0,no,yes,4,Frequently,no,2,no,2,0,Sometimes,Public_Transportation,Normal_Weight,22.77,Normal weight,Moderately active,Moderate,Poorly hydrated
+Douglas,Mayo,Masculino,21.0,1.5,65.0,yes,no,3,Sometimes,no,2,no,2,2,Sometimes,Public_Transportation,Overweight_Level_II,28.89,Overweight,Moderately active,High,Poorly hydrated
+Ashley,Brown,Femenino,22.0,1.56,49.0,no,yes,3,Sometimes,no,1,yes,2,0,no,Walking,Normal_Weight,20.13,Normal weight,Moderately active,Low,Poorly hydrated
+Christina,Travis,Femenino,21.0,1.6,48.0,no,yes,3,Sometimes,no,1,no,1,0,Sometimes,Public_Transportation,Normal_Weight,18.75,Normal weight,Moderately active,Moderate,Poorly hydrated
+Jennifer,Payne,Femenino,23.0,1.65,67.0,yes,yes,3,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Normal_Weight,24.61,Normal weight,Moderately active,High,Poorly hydrated
+Emily,Allen,Femenino,21.0,1.75,88.0,yes,yes,3,Sometimes,no,3,no,3,0,Sometimes,Public_Transportation,Overweight_Level_II,28.73,Overweight,Active,High,Poorly hydrated
+Karen,Green,Femenino,21.0,1.67,75.0,yes,yes,3,Sometimes,no,2,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.89,Overweight,Moderately active,High,Poorly hydrated
+Karen,Green,Femenino,21.0,1.67,75.0,yes,yes,3,Sometimes,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_II,26.89,Overweight,Moderately active,High,Poorly hydrated
+Jesse,Shannon,Masculino,23.0,1.68,60.0,no,no,4,Frequently,no,2,no,0,0,no,Walking,Normal_Weight,21.26,Normal weight,Sedentary,Low,Poorly hydrated
+Rachel,Stanton,Femenino,21.0,1.66,64.0,yes,yes,3,Sometimes,no,1,no,0,0,no,Public_Transportation,Normal_Weight,23.23,Normal weight,Sedentary,Moderate,Poorly hydrated
+Harry,Rich,Masculino,21.0,1.66,62.0,yes,yes,3,Sometimes,yes,2,no,1,1,Frequently,Public_Transportation,Normal_Weight,22.5,Normal weight,Moderately active,High,Poorly hydrated
+Ronald,Stewart,Masculino,21.0,1.81,80.0,no,no,3,no,no,2,no,2,0,no,Public_Transportation,Normal_Weight,24.42,Normal weight,Moderately active,Low,Poorly hydrated
+Tracy,Hurley,Femenino,21.0,1.53,65.0,yes,no,3,Sometimes,no,1,no,0,1,no,Public_Transportation,Overweight_Level_II,27.77,Overweight,Sedentary,Moderate,Poorly hydrated
+Melissa,Norton,Femenino,21.0,1.82,72.0,yes,yes,3,Frequently,no,3,no,2,0,Sometimes,Public_Transportation,Normal_Weight,21.74,Normal weight,Moderately active,High,Poorly hydrated
+Mary,Gonzales,Femenino,21.0,1.75,72.0,yes,yes,3,Frequently,no,3,no,2,0,Sometimes,Public_Transportation,Normal_Weight,23.51,Normal weight,Moderately active,High,Poorly hydrated
+Sherry,Cunningham,Femenino,20.0,1.66,60.0,yes,no,3,Sometimes,no,2,no,1,0,Sometimes,Walking,Normal_Weight,21.77,Normal weight,Moderately active,High,Poorly hydrated
+Stephanie,Sampson,Femenino,21.0,1.55,50.0,no,yes,3,Sometimes,no,2,no,0,0,Sometimes,Public_Transportation,Normal_Weight,20.81,Normal weight,Sedentary,Moderate,Poorly hydrated
+Alexandria,Hickman,Femenino,21.0,1.61,54.5,yes,yes,3,Sometimes,no,3,no,0,1,Sometimes,Walking,Normal_Weight,21.03,Normal weight,Sedentary,High,Poorly hydrated
+Amy,Gonzalez,Femenino,20.0,1.5,44.0,no,yes,3,Sometimes,no,1,no,0,0,Sometimes,Automobile,Normal_Weight,19.56,Normal weight,Sedentary,Moderate,Poorly hydrated
+Chelsea,Morgan,Femenino,23.0,1.64,52.0,no,yes,1,Sometimes,no,2,no,2,2,no,Public_Transportation,Normal_Weight,19.33,Normal weight,Moderately active,Low,Poorly hydrated
+John,Daugherty,Masculino,23.0,1.63,55.0,yes,no,3,no,no,2,yes,2,1,no,Public_Transportation,Normal_Weight,20.7,Normal weight,Moderately active,Moderate,Poorly hydrated
+Jose,Garcia,Masculino,22.0,1.6,55.0,no,no,4,Always,no,3,no,2,0,no,Public_Transportation,Normal_Weight,21.48,Normal weight,Moderately active,Low,Poorly hydrated
+Joel,Thompson,Masculino,23.0,1.68,62.0,no,no,4,Frequently,no,2,no,0,0,Sometimes,Automobile,Normal_Weight,21.97,Normal weight,Sedentary,Moderate,Poorly hydrated
+Dawn,Massey,Femenino,22.0,1.7,70.0,yes,yes,3,Sometimes,no,1,no,0,1,Sometimes,Automobile,Normal_Weight,24.22,Normal weight,Sedentary,High,Poorly hydrated
+Michael,Todd,Masculino,21.0,1.64,65.0,yes,no,3,Sometimes,no,1,no,0,1,no,Public_Transportation,Normal_Weight,24.17,Normal weight,Sedentary,Moderate,Poorly hydrated
+Kristin,Cardenas,Femenino,17.0,1.65,67.0,yes,yes,1,Sometimes,no,2,no,1,1,no,Walking,Normal_Weight,24.61,Normal weight,Moderately active,Moderate,Poorly hydrated
+Julia,Holmes,Femenino,20.0,1.76,55.0,yes,yes,4,Sometimes,no,3,no,2,2,no,Public_Transportation,Insufficient_Weight,17.76,Underweight,Moderately active,Moderate,Poorly hydrated
+Lance,Wells,Masculino,21.0,1.55,49.0,yes,yes,3,Sometimes,no,3,no,3,1,Sometimes,Public_Transportation,Normal_Weight,20.4,Normal weight,Active,High,Poorly hydrated
+Dawn,Carter,Femenino,20.0,1.65,58.0,no,yes,3,Sometimes,no,2,no,3,1,Sometimes,Public_Transportation,Normal_Weight,21.3,Normal weight,Active,Moderate,Poorly hydrated
+Wendy,Nelson,Femenino,22.0,1.67,62.0,no,yes,1,no,no,2,no,0,0,Sometimes,Public_Transportation,Normal_Weight,22.23,Normal weight,Sedentary,Moderate,Poorly hydrated
+Jason,Gomez,Masculino,22.0,1.68,55.0,yes,yes,3,Sometimes,no,2,no,0,2,Sometimes,Automobile,Normal_Weight,19.49,Normal weight,Sedentary,High,Poorly hydrated
+Bethany,Flores,Femenino,21.0,1.66,57.0,yes,yes,3,Frequently,no,1,no,1,1,no,Public_Transportation,Normal_Weight,20.69,Normal weight,Moderately active,Moderate,Poorly hydrated
+Brian,Koch,Masculino,21.0,1.62,69.0,yes,yes,3,Frequently,no,2,no,0,1,no,Public_Transportation,Overweight_Level_I,26.29,Overweight,Sedentary,Moderate,Poorly hydrated
+Sarah,Butler,Femenino,23.0,1.8,90.0,yes,yes,3,Always,no,2,no,0,2,Frequently,Public_Transportation,Overweight_Level_II,27.78,Overweight,Sedentary,High,Poorly hydrated
+Samantha,Lindsey,Femenino,23.0,1.65,95.0,yes,yes,3,Always,no,2,no,0,1,Frequently,Automobile,Obesity_Type_I,34.89,Obesity Class I,Sedentary,High,Poorly hydrated
+Bruce,Nelson,Masculino,30.0,1.76,112.0,yes,yes,3,no,yes,2,yes,0,0,Frequently,Automobile,Obesity_Type_II,36.16,Obesity Class II,Sedentary,High,Poorly hydrated
+Michelle,Gamble,Femenino,23.0,1.8,60.0,yes,no,3,no,no,3,no,0,1,Sometimes,Public_Transportation,Normal_Weight,18.52,Normal weight,Sedentary,High,Poorly hydrated
+Gloria,Long,Femenino,23.0,1.65,80.0,yes,yes,3,Always,no,2,no,0,2,no,Public_Transportation,Overweight_Level_II,29.38,Overweight,Sedentary,Moderate,Poorly hydrated
+Jennifer,Reynolds,Femenino,22.0,1.67,50.0,yes,no,3,no,no,3,yes,2,1,Sometimes,Public_Transportation,Insufficient_Weight,17.93,Underweight,Moderately active,High,Poorly hydrated
+Nicole,Weaver,Femenino,24.0,1.65,60.0,yes,no,3,Sometimes,no,3,yes,1,0,no,Public_Transportation,Normal_Weight,22.04,Normal weight,Moderately active,Moderate,Poorly hydrated
+Brian,Greene,Masculino,19.0,1.85,65.0,yes,no,3,Sometimes,no,3,no,2,1,Sometimes,Bike,Normal_Weight,18.99,Normal weight,Moderately active,High,Poorly hydrated
+Jacob,Cabrera,Masculino,24.0,1.7,85.0,yes,yes,3,Frequently,no,3,no,0,1,Frequently,Public_Transportation,Overweight_Level_II,29.41,Overweight,Sedentary,High,Poorly hydrated
+Lee,Smith,Masculino,23.0,1.63,45.0,yes,no,3,Sometimes,no,3,yes,2,0,no,Public_Transportation,Insufficient_Weight,16.94,Underweight,Moderately active,Moderate,Poorly hydrated
+Amber,Smith,Femenino,24.0,1.6,45.0,yes,no,3,no,no,2,no,1,0,no,Public_Transportation,Insufficient_Weight,17.58,Underweight,Moderately active,Moderate,Poorly hydrated
+Sandra,Sherman,Femenino,24.0,1.7,80.0,yes,yes,3,Sometimes,no,3,no,0,0,no,Public_Transportation,Overweight_Level_II,27.68,Overweight,Sedentary,Moderate,Poorly hydrated
+Ricardo,Mathis,Masculino,23.0,1.65,90.0,yes,yes,3,Sometimes,no,3,no,0,1,no,Public_Transportation,Obesity_Type_I,33.06,Obesity Class I,Sedentary,Moderate,Poorly hydrated
+Chelsea,Campbell,Femenino,23.0,1.65,60.0,yes,no,3,Sometimes,no,2,no,0,0,Sometimes,Public_Transportation,Normal_Weight,22.04,Normal weight,Sedentary,High,Poorly hydrated
+Linda,Hawkins,Femenino,19.0,1.63,58.0,no,no,3,Sometimes,no,2,yes,0,0,no,Public_Transportation,Normal_Weight,21.83,Normal weight,Sedentary,Low,Poorly hydrated
+Julia,Smith,Femenino,30.0,1.8,91.0,yes,yes,3,Frequently,no,2,no,0,0,Sometimes,Public_Transportation,Overweight_Level_II,28.09,Overweight,Sedentary,High,Poorly hydrated
+Eric,Sanchez,Masculino,23.0,1.67,85.5,yes,yes,3,Always,no,2,no,0,1,no,Public_Transportation,Obesity_Type_I,30.66,Obesity Class I,Sedentary,Moderate,Poorly hydrated
+Amy,Mendoza,Femenino,19.0,1.6,45.0,no,no,3,no,no,3,yes,2,0,no,Walking,Insufficient_Weight,17.58,Underweight,Moderately active,Low,Poorly hydrated
+Ralph,Young,Masculino,25.0,1.7,83.0,yes,yes,3,Frequently,no,2,no,0,1,Sometimes,Public_Transportation,Overweight_Level_II,28.72,Overweight,Sedentary,High,Poorly hydrated
+William,Evans,Masculino,23.0,1.65,58.5,yes,no,3,Sometimes,no,2,no,0,0,no,Public_Transportation,Normal_Weight,21.49,Normal weight,Sedentary,Moderate,Poorly hydrated
+Alyssa,Kennedy,Femenino,21.0,1.85,83.0,yes,yes,1,Frequently,no,3,no,1,0,no,Public_Transportation,Normal_Weight,24.25,Normal weight,Moderately active,Moderate,Poorly hydrated
+Ashley,Thompson,Femenino,19.0,1.82,87.0,yes,yes,3,Sometimes,no,2,no,0,0,no,Public_Transportation,Overweight_Level_I,26.26,Overweight,Sedentary,Moderate,Poorly hydrated
+Patrick,Smith,Masculino,22.0,1.65,65.0,yes,yes,3,Frequently,no,2,yes,1,0,no,Automobile,Normal_Weight,23.88,Normal weight,Moderately active,Moderate,Poorly hydrated
+Thomas,Rogers,Masculino,29.0,1.7,78.0,yes,yes,3,Sometimes,no,1,no,2,1,Frequently,Automobile,Overweight_Level_II,26.99,Overweight,Moderately active,High,Poorly hydrated
+Ashley,Delgado,Femenino,25.0,1.63,93.0,no,no,4,Always,no,1,no,2,0,no,Public_Transportation,Obesity_Type_II,35.0,Obesity Class II,Moderately active,Low,Poorly hydrated
+Bryan,Clarke,Masculino,20.0,1.61,64.0,yes,no,3,Always,no,2,yes,0,1,Frequently,Public_Transportation,Normal_Weight,24.69,Normal weight,Sedentary,High,Poorly hydrated
+Anthony,Robinson,Masculino,55.0,1.78,84.0,yes,no,4,Frequently,no,3,yes,3,0,Frequently,Walking,Overweight_Level_I,26.51,Overweight,Active,High,Poorly hydrated
+Jennifer,Durham,Femenino,20.0,1.6,57.0,no,no,3,Always,no,2,no,1,0,no,Walking,Normal_Weight,22.27,Normal weight,Moderately active,Low,Poorly hydrated
+Aaron,Fernandez,Masculino,24.0,1.6,48.0,no,yes,3,Sometimes,no,2,no,2,0,no,Public_Transportation,Normal_Weight,18.75,Normal weight,Moderately active,Low,Poorly hydrated
+Taylor,Fox,Femenino,26.0,1.7,70.0,yes,no,1,Frequently,no,2,no,2,0,Frequently,Public_Transportation,Normal_Weight,24.22,Normal weight,Moderately active,High,Poorly hydrated
+Susan,Roberts,Femenino,23.0,1.66,60.0,yes,no,3,Sometimes,no,2,no,3,0,Sometimes,Public_Transportation,Normal_Weight,21.77,Normal weight,Active,High,Poorly hydrated
+Brady,Savage,Masculino,21.0,1.52,42.0,no,no,1,Frequently,no,1,no,0,0,Sometimes,Public_Transportation,Insufficient_Weight,18.18,Underweight,Sedentary,Moderate,Poorly hydrated
+Mark,Brennan,Masculino,21.0,1.52,42.0,no,no,1,Frequently,no,1,no,0,0,Sometimes,Public_Transportation,Insufficient_Weight,18.18,Underweight,Sedentary,Moderate,Poorly hydrated
+Melissa,Silva,Femenino,23.0,1.72,70.0,no,no,3,Sometimes,no,2,no,3,1,Frequently,Public_Transportation,Normal_Weight,23.66,Normal weight,Active,Moderate,Poorly hydrated
+Michael,Aguilar,Masculino,21.0,1.69,63.0,no,yes,1,Sometimes,no,1,no,0,0,Sometimes,Public_Transportation,Normal_Weight,22.06,Normal weight,Sedentary,Moderate,Poorly hydrated
+Stacy,Griffin,Femenino,22.0,1.7,66.4,yes,no,3,Frequently,no,2,no,0,0,no,Public_Transportation,Normal_Weight,22.98,Normal weight,Sedentary,Moderate,Poorly hydrated
+Andrew,Lambert,Masculino,21.0,1.55,57.0,no,yes,4,Frequently,no,2,yes,2,0,Sometimes,Automobile,Normal_Weight,23.73,Normal weight,Moderately active,Moderate,Poorly hydrated
+Donald,Noble,Masculino,22.0,1.65,58.0,yes,yes,4,Frequently,no,2,no,1,0,Sometimes,Public_Transportation,Normal_Weight,21.3,Normal weight,Moderately active,High,Poorly hydrated
+Patrick,Robinson,Masculino,38.0,1.56,80.0,yes,yes,3,Sometimes,no,2,no,0,0,Sometimes,Automobile,Obesity_Type_I,32.87,Obesity Class I,Sedentary,High,Poorly hydrated
+Anne,Bailey,Femenino,25.0,1.57,55.0,no,yes,1,Sometimes,no,2,no,2,0,Sometimes,Public_Transportation,Normal_Weight,22.31,Normal weight,Moderately active,Moderate,Poorly hydrated
+Danielle,Summers,Femenino,25.0,1.57,55.0,no,yes,1,Sometimes,no,2,no,2,0,Sometimes,Public_Transportation,Normal_Weight,22.31,Normal weight,Moderately active,Moderate,Poorly hydrated
+Kristin,Lopez,Femenino,22.0,1.88,90.0,yes,yes,3,Always,no,1,no,0,1,Sometimes,Automobile,Overweight_Level_I,25.46,Overweight,Sedentary,High,Poorly hydrated
+Mike,Shepherd,Masculino,22.0,1.75,95.0,yes,no,3,Sometimes,no,3,no,3,2,no,Walking,Obesity_Type_I,31.02,Obesity Class I,Active,Moderate,Poorly hydrated
+Sarah,Flores,Femenino,21.0,1.65,88.0,yes,yes,1,Sometimes,no,3,no,2,1,no,Public_Transportation,Obesity_Type_I,32.32,Obesity Class I,Moderately active,Moderate,Poorly hydrated
+Danny,Meza,Masculino,21.0,1.75,75.0,yes,yes,3,Sometimes,no,2,no,0,1,Sometimes,Public_Transportation,Normal_Weight,24.49,Normal weight,Sedentary,High,Poorly hydrated
+Richard,Lowe,Masculino,22.0,1.58,58.0,yes,yes,1,Sometimes,no,1,no,0,0,no,Public_Transportation,Normal_Weight,23.23,Normal weight,Sedentary,Moderate,Poorly hydrated
+Lori,Coleman,Femenino,18.0,1.56,51.0,yes,yes,4,Frequently,no,2,no,1,0,Sometimes,Public_Transportation,Normal_Weight,20.96,Normal weight,Moderately active,High,Poorly hydrated
+Jennifer,Mann,Femenino,22.0,1.5,49.0,yes,no,1,Sometimes,no,2,no,3,0,no,Walking,Normal_Weight,21.78,Normal weight,Active,Moderate,Poorly hydrated
+Joanne,Peck,Femenino,19.0,1.61,62.0,yes,yes,1,Frequently,no,2,no,1,0,Frequently,Public_Transportation,Normal_Weight,23.92,Normal weight,Moderately active,High,Poorly hydrated
+Brenda,Montgomery,Femenino,17.0,1.75,57.0,yes,yes,3,Frequently,no,2,no,0,1,no,Public_Transportation,Normal_Weight,18.61,Normal weight,Sedentary,Moderate,Poorly hydrated
+David,Castro,Masculino,15.0,1.65,86.0,yes,yes,3,Sometimes,no,1,no,3,2,no,Walking,Obesity_Type_I,31.59,Obesity Class I,Active,Moderate,Poorly hydrated
+Amanda,Williams,Femenino,17.0,1.7,85.0,yes,no,3,Frequently,no,2,no,1,1,no,Public_Transportation,Overweight_Level_II,29.41,Overweight,Moderately active,Moderate,Poorly hydrated
+Rebecca,Richards,Femenino,23.0,1.62,53.0,yes,yes,3,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Normal_Weight,20.2,Normal weight,Moderately active,High,Poorly hydrated
+Monica,Drake,Femenino,19.0,1.63,76.0,yes,no,3,Frequently,yes,3,no,2,1,Sometimes,Automobile,Overweight_Level_II,28.6,Overweight,Moderately active,High,Poorly hydrated
+Kathleen,Braun,Femenino,23.0,1.67,75.0,yes,yes,3,Frequently,yes,2,no,0,2,no,Walking,Overweight_Level_I,26.89,Overweight,Sedentary,High,Poorly hydrated
+Joseph,Mendez,Masculino,23.0,1.87,95.0,yes,yes,3,Frequently,no,2,no,0,2,Frequently,Public_Transportation,Overweight_Level_II,27.17,Overweight,Sedentary,High,Poorly hydrated
+Carlos,Hess,Masculino,21.0,1.75,50.0,yes,no,4,Frequently,no,1,no,1,0,no,Walking,Insufficient_Weight,16.33,Underweight,Moderately active,Moderate,Poorly hydrated
+Steven,Burton,Masculino,24.0,1.66,67.0,yes,yes,1,Sometimes,no,2,no,1,0,no,Public_Transportation,Normal_Weight,24.31,Normal weight,Moderately active,Moderate,Poorly hydrated
+Amber,Kramer,Femenino,23.0,1.76,90.0,no,yes,3,Sometimes,no,1,no,0,0,no,Public_Transportation,Overweight_Level_II,29.05,Overweight,Sedentary,Low,Poorly hydrated
+John,Hunt,Masculino,18.0,1.75,80.0,yes,yes,3,Always,no,2,no,0,0,Frequently,Public_Transportation,Overweight_Level_I,26.12,Overweight,Sedentary,High,Poorly hydrated
+Frank,Bowen,Masculino,19.0,1.67,68.0,no,yes,3,Sometimes,no,2,no,1,0,Sometimes,Public_Transportation,Normal_Weight,24.38,Normal weight,Moderately active,Moderate,Poorly hydrated
+Melissa,Tran,Femenino,19.0,1.65,61.0,no,yes,1,Sometimes,no,3,yes,1,0,Sometimes,Public_Transportation,Normal_Weight,22.41,Normal weight,Moderately active,Moderate,Poorly hydrated
+William,Goodwin,Masculino,20.0,1.72,70.0,yes,yes,3,Frequently,no,1,no,0,0,Sometimes,Public_Transportation,Normal_Weight,23.66,Normal weight,Sedentary,High,Poorly hydrated
+Haley,Kelly,Femenino,27.0,1.7,78.0,no,yes,3,Sometimes,no,3,no,1,1,Frequently,Public_Transportation,Overweight_Level_II,26.99,Overweight,Moderately active,Moderate,Poorly hydrated
+Douglas,Greer,Masculino,20.0,1.58,53.0,yes,yes,4,Frequently,no,2,no,1,1,no,Public_Transportation,Normal_Weight,21.23,Normal weight,Moderately active,Moderate,Poorly hydrated
+Maria,Mercer,Femenino,23.0,1.62,58.0,no,no,3,Sometimes,no,1,no,1,0,no,Public_Transportation,Normal_Weight,22.1,Normal weight,Moderately active,Low,Poorly hydrated
+Nathan,Conrad,Masculino,19.0,1.65,56.0,yes,yes,3,Frequently,yes,3,yes,1,2,Frequently,Public_Transportation,Normal_Weight,20.57,Normal weight,Moderately active,High,Poorly hydrated
+Raymond,Mayo,Masculino,61.0,1.65,66.0,no,yes,3,Always,no,2,no,1,1,Frequently,Public_Transportation,Normal_Weight,24.24,Normal weight,Moderately active,Moderate,Poorly hydrated
+Daniel,Buckley,Masculino,30.0,1.77,109.0,yes,yes,3,Sometimes,no,1,no,2,0,Sometimes,Automobile,Obesity_Type_I,34.79,Obesity Class I,Moderately active,High,Poorly hydrated
+Maria,Mcclure,Femenino,24.0,1.7,75.0,yes,yes,3,Sometimes,no,2,no,1,0,Sometimes,Automobile,Overweight_Level_I,25.95,Overweight,Moderately active,High,Poorly hydrated
+Matthew,Mclean,Masculino,25.0,1.79,72.0,yes,yes,3,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Normal_Weight,22.47,Normal weight,Moderately active,High,Poorly hydrated
+Kaylee,Cox,Femenino,44.0,1.6,80.0,yes,no,3,Sometimes,yes,3,no,0,0,no,Motorbike,Obesity_Type_I,31.25,Obesity Class I,Sedentary,High,Poorly hydrated
+Alyssa,Patterson,Femenino,31.0,1.76,75.0,yes,no,3,Always,no,3,yes,3,0,no,Bike,Normal_Weight,24.21,Normal weight,Active,Moderate,Poorly hydrated
+Rodney,Conner,Masculino,25.0,1.7,68.0,no,yes,3,Frequently,no,2,no,0,1,no,Public_Transportation,Normal_Weight,23.53,Normal weight,Sedentary,Low,Poorly hydrated
+Ryan,Pena,Masculino,23.0,1.89,65.0,yes,yes,3,Frequently,no,3,no,1,1,Sometimes,Public_Transportation,Insufficient_Weight,18.2,Underweight,Moderately active,High,Poorly hydrated
+Gabriel,Stone,Masculino,25.0,1.87,66.0,no,yes,3,Always,no,2,no,2,0,Frequently,Public_Transportation,Normal_Weight,18.87,Normal weight,Moderately active,Moderate,Poorly hydrated
+Lisa,Rios,Femenino,23.0,1.74,93.5,no,yes,3,Frequently,yes,1,no,1,1,Frequently,Automobile,Obesity_Type_I,30.88,Obesity Class I,Moderately active,High,Poorly hydrated
+Debra,Stevens,Femenino,34.0,1.68,75.0,no,yes,1,Sometimes,no,1,no,0,0,Sometimes,Automobile,Overweight_Level_I,26.57,Overweight,Sedentary,Moderate,Poorly hydrated
+Sarah,Robinson,Femenino,22.0,1.61,67.0,yes,no,4,Sometimes,no,3,yes,2,2,Sometimes,Public_Transportation,Overweight_Level_I,25.85,Overweight,Moderately active,High,Poorly hydrated
+Jeffrey,Jones,Masculino,21.0,1.62,70.0,no,yes,1,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.67,Overweight,Moderately active,Moderate,Poorly hydrated
+Terry,Johnson,Masculino,24.0,1.56,51.0,no,no,3,Frequently,no,2,no,2,2,Frequently,Public_Transportation,Normal_Weight,20.96,Normal weight,Moderately active,Moderate,Poorly hydrated
+Natalie,Jimenez,Femenino,36.0,1.63,80.0,yes,no,3,Sometimes,no,1,no,0,0,Sometimes,Automobile,Obesity_Type_I,30.11,Obesity Class I,Sedentary,High,Poorly hydrated
+Richard,Ortiz,Masculino,27.0,1.6,61.0,no,yes,3,Always,no,2,no,0,0,Sometimes,Automobile,Normal_Weight,23.83,Normal weight,Sedentary,Moderate,Poorly hydrated
+Lisa,Watson,Femenino,32.0,1.67,90.0,yes,yes,1,Sometimes,no,2,no,2,0,Sometimes,Automobile,Obesity_Type_I,32.27,Obesity Class I,Moderately active,High,Poorly hydrated
+Dustin,Berry,Masculino,25.0,1.78,78.0,yes,yes,1,Sometimes,no,2,no,2,1,Sometimes,Public_Transportation,Normal_Weight,24.62,Normal weight,Moderately active,High,Poorly hydrated
+Valerie,Gilbert,Femenino,30.0,1.62,59.0,yes,yes,3,Sometimes,no,2,no,2,0,Sometimes,Automobile,Normal_Weight,22.48,Normal weight,Moderately active,High,Poorly hydrated
+Nicole,Powell,Femenino,38.0,1.5,60.0,yes,yes,1,Always,yes,2,no,0,0,Sometimes,Automobile,Overweight_Level_I,26.67,Overweight,Sedentary,High,Poorly hydrated
+Amanda,Cantu,Femenino,34.0,1.69,84.0,yes,no,3,Sometimes,no,3,no,2,0,no,Automobile,Overweight_Level_II,29.41,Overweight,Moderately active,Moderate,Poorly hydrated
+Rachel,Morton,Femenino,22.0,1.74,94.0,yes,yes,3,Sometimes,no,2,no,0,0,Sometimes,Public_Transportation,Obesity_Type_I,31.05,Obesity Class I,Sedentary,High,Poorly hydrated
+Brittany,Bell,Femenino,31.0,1.68,63.0,yes,yes,1,Frequently,no,2,no,1,1,Sometimes,Automobile,Normal_Weight,22.32,Normal weight,Moderately active,High,Poorly hydrated
+Glen,Ferguson,Masculino,35.0,1.53,45.0,yes,no,3,Frequently,no,1,no,0,1,no,Automobile,Normal_Weight,19.22,Normal weight,Sedentary,Moderate,Poorly hydrated
+Kathy,Olson,Femenino,21.0,1.67,60.0,yes,yes,3,Frequently,no,2,no,2,1,Sometimes,Public_Transportation,Normal_Weight,21.51,Normal weight,Moderately active,High,Poorly hydrated
+James,Campbell,Masculino,40.0,1.55,62.0,yes,no,3,Sometimes,no,3,no,0,0,Sometimes,Automobile,Overweight_Level_I,25.81,Overweight,Sedentary,High,Poorly hydrated
+Nancy,Prince,Femenino,27.0,1.64,78.0,yes,yes,1,Sometimes,no,2,no,0,0,Frequently,Automobile,Overweight_Level_II,29.0,Overweight,Sedentary,High,Poorly hydrated
+Joshua,Mcdonald,Masculino,20.0,1.83,72.0,yes,no,3,Sometimes,yes,1,no,2,1,Sometimes,Public_Transportation,Normal_Weight,21.5,Normal weight,Moderately active,High,Poorly hydrated
+Christopher,Smith,Masculino,55.0,1.65,80.0,no,yes,3,Sometimes,no,2,no,1,0,no,Automobile,Overweight_Level_II,29.38,Overweight,Moderately active,Low,Poorly hydrated
+Brian,Marshall,Masculino,21.0,1.63,60.0,yes,yes,3,Always,yes,2,no,2,0,Sometimes,Public_Transportation,Normal_Weight,22.58,Normal weight,Moderately active,High,Poorly hydrated
+Rebecca,Nelson,Femenino,25.0,1.89,75.0,no,no,3,Frequently,no,2,yes,3,0,no,Public_Transportation,Normal_Weight,21.0,Normal weight,Active,Low,Poorly hydrated
+Alejandra,Potter,Femenino,35.0,1.77,85.0,yes,no,3,Frequently,no,3,no,2,1,Sometimes,Automobile,Overweight_Level_II,27.13,Overweight,Moderately active,High,Poorly hydrated
+Darren,Duncan,Masculino,30.0,1.92,130.0,yes,no,3,Sometimes,yes,1,no,1,0,Sometimes,Public_Transportation,Obesity_Type_II,35.26,Obesity Class II,Moderately active,High,Poorly hydrated
+Christopher,Fitzpatrick,Masculino,29.0,1.74,72.0,yes,no,3,Always,no,2,no,0,0,Sometimes,Automobile,Normal_Weight,23.78,Normal weight,Sedentary,High,Poorly hydrated
+Sarah,Johnson,Femenino,20.0,1.65,80.0,yes,no,3,Sometimes,no,2,no,1,2,no,Walking,Overweight_Level_II,29.38,Overweight,Moderately active,Moderate,Poorly hydrated
+Vanessa,Griffith,Femenino,22.0,1.73,79.0,yes,yes,1,Sometimes,no,2,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.4,Overweight,Moderately active,High,Poorly hydrated
+Todd,Walker,Masculino,45.0,1.63,77.0,yes,yes,3,Frequently,no,1,no,0,0,no,Automobile,Overweight_Level_II,28.98,Overweight,Sedentary,Moderate,Poorly hydrated
+Samuel,White,Masculino,22.0,1.72,82.0,no,yes,1,Sometimes,no,2,no,2,1,Sometimes,Public_Transportation,Overweight_Level_II,27.72,Overweight,Moderately active,Moderate,Poorly hydrated
+Tiffany,Stone,Femenino,18.0,1.6,58.0,yes,yes,3,Frequently,no,2,no,1,0,Sometimes,Public_Transportation,Normal_Weight,22.66,Normal weight,Moderately active,High,Poorly hydrated
+Alexis,Sherman,Femenino,23.0,1.65,59.0,no,no,1,Sometimes,no,2,no,1,2,Sometimes,Public_Transportation,Normal_Weight,21.67,Normal weight,Moderately active,Moderate,Poorly hydrated
+Jacob,Ortiz,Masculino,18.0,1.74,64.0,no,no,3,Sometimes,no,2,yes,0,1,no,Public_Transportation,Normal_Weight,21.14,Normal weight,Sedentary,Low,Poorly hydrated
+Stephen,Warren,Masculino,21.0,1.62,70.0,no,yes,1,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.67,Overweight,Moderately active,Moderate,Poorly hydrated
+Jacob,Padilla,Masculino,38.0,1.64,59.8,yes,yes,3,Sometimes,no,2,no,2,0,no,Public_Transportation,Normal_Weight,22.23,Normal weight,Moderately active,Moderate,Poorly hydrated
+Jorge,Simmons,Masculino,18.0,1.57,48.0,yes,yes,1,Always,no,1,no,1,0,no,Public_Transportation,Normal_Weight,19.47,Normal weight,Moderately active,Moderate,Poorly hydrated
+Karen,Molina,Femenino,22.0,1.84,84.0,yes,yes,3,Frequently,no,2,yes,3,0,Sometimes,Public_Transportation,Normal_Weight,24.81,Normal weight,Active,High,Poorly hydrated
+Pamela,Glass,Femenino,26.0,1.91,84.0,yes,yes,3,Frequently,yes,2,no,2,2,Frequently,Public_Transportation,Normal_Weight,23.03,Normal weight,Moderately active,High,Poorly hydrated
+Timothy,Brown,Masculino,21.0,1.62,70.0,no,yes,1,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.67,Overweight,Moderately active,Moderate,Poorly hydrated
+Richard,Weber,Masculino,18.0,1.58,48.0,no,yes,3,Sometimes,no,2,no,1,0,no,Public_Transportation,Normal_Weight,19.23,Normal weight,Moderately active,Low,Poorly hydrated
+Terry,Martinez,Masculino,23.0,1.68,67.0,yes,yes,3,Frequently,no,1,no,0,0,Sometimes,Public_Transportation,Normal_Weight,23.74,Normal weight,Sedentary,High,Poorly hydrated
+John,Clay,Masculino,22.0,1.68,52.0,no,yes,3,Frequently,no,2,no,0,1,no,Public_Transportation,Insufficient_Weight,18.42,Underweight,Sedentary,Low,Poorly hydrated
+Jennifer,Barton,Femenino,23.0,1.48,60.0,yes,yes,1,Sometimes,yes,1,no,0,0,Sometimes,Public_Transportation,Overweight_Level_II,27.39,Overweight,Sedentary,High,Poorly hydrated
+Tamara,Huff,Femenino,21.0,1.62,70.0,no,yes,1,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.67,Overweight,Moderately active,Moderate,Poorly hydrated
+Angela,Dawson,Femenino,31.0,1.62,68.0,no,no,3,Sometimes,no,2,no,1,0,Sometimes,Automobile,Overweight_Level_I,25.91,Overweight,Moderately active,Moderate,Poorly hydrated
+Jason,Kelly,Masculino,39.0,1.78,96.0,yes,no,3,Sometimes,no,3,no,1,0,Frequently,Automobile,Obesity_Type_I,30.3,Obesity Class I,Moderately active,High,Poorly hydrated
+Nicholas,Walters,Masculino,25.0,1.78,98.0,yes,no,3,Sometimes,no,3,no,3,2,no,Public_Transportation,Obesity_Type_I,30.93,Obesity Class I,Active,Moderate,Poorly hydrated
+Christopher,Young,Masculino,35.0,1.78,105.0,yes,yes,1,no,no,3,no,3,1,Frequently,Automobile,Obesity_Type_I,33.14,Obesity Class I,Active,High,Poorly hydrated
+Sabrina,Deleon,Femenino,33.0,1.63,62.0,yes,yes,3,Sometimes,no,2,no,1,1,no,Public_Transportation,Normal_Weight,23.34,Normal weight,Moderately active,Moderate,Poorly hydrated
+Jonathan,Walsh,Masculino,20.0,1.6,56.0,no,yes,3,Sometimes,no,2,no,1,0,Sometimes,Public_Transportation,Normal_Weight,21.87,Normal weight,Moderately active,Moderate,Poorly hydrated
+Laura,Long,Femenino,26.0,1.75,80.0,yes,yes,1,Frequently,yes,2,yes,2,0,Sometimes,Public_Transportation,Overweight_Level_I,26.12,Overweight,Moderately active,High,Poorly hydrated
+Gary,Garcia,Masculino,20.0,1.83,85.0,yes,no,3,Sometimes,no,3,yes,3,0,Sometimes,Automobile,Overweight_Level_I,25.38,Overweight,Active,High,Poorly hydrated
+Darius,Strong,Masculino,20.0,1.78,68.0,no,no,1,Frequently,no,3,yes,2,1,no,Public_Transportation,Normal_Weight,21.46,Normal weight,Moderately active,Low,Poorly hydrated
+Curtis,Carroll,Masculino,23.0,1.6,83.0,yes,yes,3,Frequently,no,3,no,3,0,no,Public_Transportation,Obesity_Type_I,32.42,Obesity Class I,Active,Moderate,Poorly hydrated
+Amanda,Fields,Femenino,19.0,1.8,85.0,yes,yes,3,Sometimes,no,2,no,1,1,Sometimes,Walking,Overweight_Level_I,26.23,Overweight,Moderately active,High,Poorly hydrated
+Miranda,Chan,Femenino,22.0,1.75,74.0,yes,no,3,Sometimes,no,2,no,1,2,Sometimes,Bike,Normal_Weight,24.16,Normal weight,Moderately active,High,Poorly hydrated
+Ronald,Butler,Masculino,41.0,1.75,118.0,yes,yes,3,Sometimes,no,2,no,0,0,Sometimes,Bike,Obesity_Type_II,38.53,Obesity Class II,Sedentary,High,Poorly hydrated
+Gina,Carter,Femenino,18.0,1.59,40.0,yes,yes,1,Frequently,no,1,no,0,2,no,Public_Transportation,Insufficient_Weight,15.82,Underweight,Sedentary,Moderate,Poorly hydrated
+Heather,White,Femenino,23.0,1.66,60.0,yes,yes,1,Sometimes,no,1,no,1,1,Sometimes,Public_Transportation,Normal_Weight,21.77,Normal weight,Moderately active,High,Poorly hydrated
+Ariana,Brady,Femenino,23.0,1.63,83.0,yes,no,1,Sometimes,yes,3,no,1,2,Sometimes,Public_Transportation,Obesity_Type_I,31.24,Obesity Class I,Moderately active,High,Poorly hydrated
+Teresa,Brown,Femenino,41.0,1.54,80.0,yes,yes,3,Always,no,1,no,0,0,Sometimes,Automobile,Obesity_Type_I,33.73,Obesity Class I,Sedentary,High,Poorly hydrated
+Allison,Brooks,Femenino,26.0,1.56,102.0,yes,yes,3,Sometimes,yes,1,no,0,1,Sometimes,Public_Transportation,Obesity_Type_III,41.91,Obesity Class III,Sedentary,High,Poorly hydrated
+Brooke,Tucker,Femenino,29.0,1.69,90.0,yes,no,3,Sometimes,no,3,no,1,0,Sometimes,Automobile,Obesity_Type_I,31.51,Obesity Class I,Moderately active,High,Poorly hydrated
+Brandon,Dominguez,Masculino,27.0,1.83,71.0,yes,yes,3,Sometimes,no,2,no,3,2,no,Automobile,Normal_Weight,21.2,Normal weight,Active,Moderate,Poorly hydrated
+Isaac,Williams,Masculino,23.0,1.6,78.0,yes,yes,1,Sometimes,yes,2,no,1,0,Frequently,Public_Transportation,Obesity_Type_I,30.47,Obesity Class I,Moderately active,High,Poorly hydrated
+Edward,Logan,Masculino,19.0,1.75,100.0,yes,yes,3,Frequently,no,2,no,2,0,no,Public_Transportation,Obesity_Type_I,32.65,Obesity Class I,Moderately active,Moderate,Poorly hydrated
+Stacy,Burton,Femenino,30.0,1.75,73.0,yes,no,3,no,no,2,yes,1,0,Sometimes,Walking,Normal_Weight,23.84,Normal weight,Moderately active,High,Poorly hydrated
+Andrew,Jackson,Masculino,22.0,1.69,65.0,yes,yes,3,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Normal_Weight,22.76,Normal weight,Moderately active,High,Poorly hydrated
+Claudia,Harrison,Femenino,22.0,1.69,65.0,yes,yes,3,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Normal_Weight,22.76,Normal weight,Moderately active,High,Poorly hydrated
+Ryan,Matthews,Masculino,20.0,1.8,114.0,yes,yes,3,Frequently,no,2,no,0,1,no,Public_Transportation,Obesity_Type_II,35.19,Obesity Class II,Sedentary,Moderate,Poorly hydrated
+Victoria,Pierce,Femenino,21.0,1.63,51.0,no,yes,1,Sometimes,no,1,no,1,1,no,Public_Transportation,Normal_Weight,19.2,Normal weight,Moderately active,Low,Poorly hydrated
+Michael,Evans,Masculino,24.0,1.5,63.0,yes,no,1,Sometimes,no,2,no,0,0,no,Public_Transportation,Overweight_Level_II,28.0,Overweight,Sedentary,Moderate,Poorly hydrated
+Gail,Howell,Femenino,21.0,1.8,62.0,yes,yes,3,Sometimes,no,2,no,1,0,no,Public_Transportation,Normal_Weight,19.14,Normal weight,Moderately active,Moderate,Poorly hydrated
+Kathy,Russell,Femenino,21.0,1.65,53.0,yes,yes,3,Sometimes,no,2,no,1,0,Sometimes,Public_Transportation,Normal_Weight,19.47,Normal weight,Moderately active,High,Poorly hydrated
+Gina,Carlson,Femenino,21.0,1.68,70.0,yes,yes,3,Sometimes,no,3,no,0,2,Sometimes,Public_Transportation,Normal_Weight,24.8,Normal weight,Sedentary,High,Poorly hydrated
+Debbie,Pugh,Femenino,23.0,1.6,63.0,yes,no,3,Frequently,no,2,no,3,0,Sometimes,Walking,Normal_Weight,24.61,Normal weight,Active,High,Poorly hydrated
+Tamara,Mills,Femenino,21.0,1.71,75.0,no,no,3,Frequently,no,3,yes,3,1,Frequently,Automobile,Overweight_Level_I,25.65,Overweight,Active,Moderate,Poorly hydrated
+Robert,Cole,Masculino,21.0,1.5,42.3,yes,no,1,Sometimes,no,2,no,3,0,no,Public_Transportation,Normal_Weight,18.8,Normal weight,Active,Moderate,Poorly hydrated
+Steven,Thomas,Masculino,21.0,1.6,68.0,yes,yes,3,Sometimes,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.56,Overweight,Moderately active,High,Poorly hydrated
+Andrew,Finley,Masculino,21.0,1.75,78.0,yes,no,3,Frequently,no,2,yes,0,2,Frequently,Public_Transportation,Overweight_Level_I,25.47,Overweight,Sedentary,High,Poorly hydrated
+Kevin,Massey,Masculino,23.0,1.72,82.0,yes,yes,1,Sometimes,no,1,no,1,1,Sometimes,Public_Transportation,Overweight_Level_II,27.72,Overweight,Moderately active,High,Poorly hydrated
+Zachary,Carlson,Masculino,21.0,1.72,66.5,yes,yes,4,Always,no,3,no,0,2,no,Public_Transportation,Normal_Weight,22.48,Normal weight,Sedentary,Moderate,Poorly hydrated
+Kyle,Garcia,Masculino,22.0,1.61,63.0,yes,yes,3,Frequently,no,3,no,1,0,no,Public_Transportation,Normal_Weight,24.3,Normal weight,Moderately active,Moderate,Poorly hydrated
+Diane,Martinez,Femenino,23.0,1.63,82.0,yes,yes,1,Sometimes,no,2,no,0,0,no,Public_Transportation,Obesity_Type_I,30.86,Obesity Class I,Sedentary,Moderate,Poorly hydrated
+Rebecca,Ruiz,Femenino,25.0,1.83,121.0,yes,no,3,Sometimes,no,3,no,2,0,Sometimes,Walking,Obesity_Type_II,36.13,Obesity Class II,Moderately active,High,Poorly hydrated
+Austin,English,Masculino,20.0,1.6,50.0,no,yes,3,Sometimes,no,1,no,0,1,no,Automobile,Normal_Weight,19.53,Normal weight,Sedentary,Low,Poorly hydrated
+Jennifer,Duarte,Femenino,24.0,1.62,58.0,no,yes,3,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Normal_Weight,22.1,Normal weight,Moderately active,Moderate,Poorly hydrated
+Christopher,Mooney,Masculino,40.0,1.68,80.0,no,no,3,Sometimes,no,3,no,0,0,no,Automobile,Overweight_Level_II,28.34,Overweight,Sedentary,Low,Poorly hydrated
+David,Kim,Masculino,32.0,1.75,120.0,yes,no,3,Sometimes,no,3,no,0,2,no,Automobile,Obesity_Type_II,39.18,Obesity Class II,Sedentary,Moderate,Poorly hydrated
+Monica,Jenkins,Femenino,20.0,1.9,91.0,yes,yes,4,Sometimes,no,3,no,2,0,Sometimes,Walking,Overweight_Level_I,25.21,Overweight,Moderately active,High,Poorly hydrated
+Michael,Taylor,Masculino,21.0,1.63,66.0,yes,yes,1,Sometimes,yes,3,no,0,0,Sometimes,Public_Transportation,Normal_Weight,24.84,Normal weight,Sedentary,High,Poorly hydrated
+Bruce,Baldwin,Masculino,51.0,1.59,50.0,yes,no,3,Sometimes,yes,3,yes,2,0,no,Public_Transportation,Normal_Weight,19.78,Normal weight,Moderately active,High,Poorly hydrated
+Tony,Ortiz,Masculino,34.0,1.68,77.0,yes,no,1,Sometimes,no,2,no,1,0,Sometimes,Automobile,Overweight_Level_II,27.28,Overweight,Moderately active,High,Poorly hydrated
+Lisa,Andrews,Femenino,19.0,1.59,49.0,yes,yes,1,no,no,2,no,2,0,no,Public_Transportation,Normal_Weight,19.38,Normal weight,Moderately active,Moderate,Poorly hydrated
+Austin,Charles,Masculino,19.0,1.69,70.0,yes,no,1,no,no,2,no,2,0,no,Public_Transportation,Normal_Weight,24.51,Normal weight,Moderately active,Moderate,Poorly hydrated
+Dakota,Anderson,Masculino,21.0,1.66,59.0,no,yes,3,Always,no,2,yes,3,0,no,Automobile,Normal_Weight,21.41,Normal weight,Active,Low,Poorly hydrated
+Erin,Green,Femenino,19.0,1.64,53.0,yes,yes,3,Sometimes,no,1,no,1,1,no,Public_Transportation,Normal_Weight,19.71,Normal weight,Moderately active,Moderate,Poorly hydrated
+Ebony,Clark,Femenino,20.0,1.62,53.0,no,yes,1,Sometimes,no,3,no,1,1,no,Public_Transportation,Normal_Weight,20.2,Normal weight,Moderately active,Low,Poorly hydrated
+Daniel,Martin,Masculino,19.0,1.7,64.0,yes,yes,3,no,no,3,yes,3,1,no,Public_Transportation,Normal_Weight,22.15,Normal weight,Active,Moderate,Poorly hydrated
+Laura,Hogan,Femenino,17.0,1.63,65.0,no,yes,1,Sometimes,no,3,no,1,1,no,Public_Transportation,Normal_Weight,24.46,Normal weight,Moderately active,Low,Poorly hydrated
+Timothy,White,Masculino,22.0,1.6,66.0,no,yes,3,Sometimes,no,2,no,3,0,no,Bike,Overweight_Level_I,25.78,Overweight,Active,Low,Poorly hydrated
+Alexandria,Gray,Femenino,20.0,1.63,64.0,yes,yes,3,Always,no,2,no,0,2,no,Automobile,Normal_Weight,24.09,Normal weight,Sedentary,Moderate,Poorly hydrated
+Lauren,Castillo,Femenino,33.0,1.85,99.0,yes,yes,3,Sometimes,yes,3,no,1,0,Sometimes,Automobile,Overweight_Level_II,28.93,Overweight,Moderately active,High,Poorly hydrated
+Kenneth,Hall,Masculino,21.0,1.54,49.0,yes,no,1,Sometimes,no,2,yes,2,0,Sometimes,Public_Transportation,Normal_Weight,20.66,Normal weight,Moderately active,High,Poorly hydrated
+Sally,Richardson,Femenino,20.0,1.64,49.0,no,no,3,Sometimes,yes,2,no,2,1,Sometimes,Automobile,Insufficient_Weight,18.22,Underweight,Moderately active,High,Poorly hydrated
+Derrick,Robinson,Masculino,20.0,1.57,60.0,no,yes,3,Sometimes,no,3,no,0,1,Sometimes,Public_Transportation,Normal_Weight,24.34,Normal weight,Sedentary,Moderate,Poorly hydrated
+Cynthia,Gibson,Femenino,20.0,1.62,52.0,no,yes,3,Frequently,no,1,no,3,1,no,Automobile,Normal_Weight,19.81,Normal weight,Active,Low,Poorly hydrated
+Jessica,Munoz,Femenino,21.0,1.72,72.0,yes,yes,3,Always,no,3,yes,3,0,Sometimes,Automobile,Normal_Weight,24.34,Normal weight,Active,High,Poorly hydrated
+Jessica,Munoz,Femenino,21.0,1.72,72.0,yes,yes,3,Always,no,2,no,132,1,Sometimes,Public_Transportation,Overweight_Level_II,24.34,Normal weight,Active,High,Poorly hydrated
+Kevin,Cole,Masculino,21.0,1.76,78.0,yes,yes,1,Sometimes,no,2,no,3,0,Sometimes,Walking,Overweight_Level_I,25.18,Overweight,Active,High,Poorly hydrated
+Shannon,Lopez,Femenino,20.0,1.65,75.0,yes,yes,1,Sometimes,no,2,no,1,1,no,Public_Transportation,Overweight_Level_II,27.55,Overweight,Moderately active,Moderate,Poorly hydrated
+Rachael,Smith,Femenino,20.0,1.67,78.0,yes,no,1,Sometimes,no,3,no,0,0,Frequently,Automobile,Overweight_Level_II,27.97,Overweight,Sedentary,High,Poorly hydrated
+Stephen,Rogers,Masculino,56.0,1.79,90.0,yes,no,3,Sometimes,yes,2,no,1,0,Frequently,Automobile,Overweight_Level_II,28.09,Overweight,Moderately active,High,Poorly hydrated
+Timothy,Harper,Masculino,26.0,1.59,47.0,yes,yes,1,Sometimes,no,2,no,0,2,Sometimes,Public_Transportation,Normal_Weight,18.59,Normal weight,Sedentary,High,Poorly hydrated
+Michael,Wright,Masculino,22.0,1.64,56.0,yes,no,3,Sometimes,no,2,no,0,0,no,Public_Transportation,Normal_Weight,20.82,Normal weight,Sedentary,Moderate,Poorly hydrated
+Katherine,Garcia,Femenino,19.0,1.78,81.0,yes,no,3,Sometimes,no,2,no,3,0,no,Bike,Overweight_Level_I,25.56,Overweight,Active,Moderate,Poorly hydrated
+Karen,Green,Femenino,18.0,1.75,85.0,yes,no,3,Sometimes,no,2,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,27.76,Overweight,Moderately active,High,Poorly hydrated
+Karen,Green,Femenino,18.0,1.75,85.0,yes,no,3,Sometimes,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_II,27.76,Overweight,Moderately active,High,Poorly hydrated
+Maria,Griffin,Femenino,19.0,1.85,115.0,no,no,3,Sometimes,no,3,yes,1,2,no,Public_Transportation,Obesity_Type_I,33.6,Obesity Class I,Moderately active,Low,Poorly hydrated
+Steven,Marshall,Masculino,18.0,1.7,80.0,no,no,1,Sometimes,no,1,no,1,0,no,Public_Transportation,Overweight_Level_II,27.68,Overweight,Moderately active,Low,Poorly hydrated
+Jason,Mckay,Masculino,18.0,1.67,91.0,yes,yes,3,Frequently,no,1,no,0,1,Sometimes,Public_Transportation,Obesity_Type_I,32.63,Obesity Class I,Sedentary,High,Poorly hydrated
+Christopher,Kelley,Masculino,21.0,1.72,75.0,no,yes,3,Sometimes,no,1,no,1,0,no,Public_Transportation,Overweight_Level_I,25.35,Overweight,Moderately active,Low,Poorly hydrated
+Jennifer,Torres,Femenino,28.0,1.7,73.0,yes,no,3,Frequently,no,2,yes,2,0,Sometimes,Walking,Overweight_Level_I,25.26,Overweight,Moderately active,High,Poorly hydrated
+Brandi,Oliver,Femenino,18.0,1.74,70.0,no,yes,3,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Normal_Weight,23.12,Normal weight,Moderately active,Moderate,Poorly hydrated
+Jessica,Walker,Femenino,23.0,1.74,53.0,no,yes,3,Frequently,no,1,no,3,2,no,Public_Transportation,Insufficient_Weight,17.51,Underweight,Active,Low,Poorly hydrated
+Lindsey,Lewis,Femenino,18.0,1.87,67.0,yes,yes,3,Frequently,no,3,yes,1,1,Sometimes,Automobile,Normal_Weight,19.16,Normal weight,Moderately active,High,Poorly hydrated
+Teresa,Livingston,Femenino,18.0,1.7,50.0,no,yes,3,Frequently,no,1,no,2,1,Sometimes,Public_Transportation,Insufficient_Weight,17.3,Underweight,Moderately active,Moderate,Poorly hydrated
+Blake,Anderson,Masculino,39.0,1.65,50.0,no,yes,4,Frequently,no,2,no,0,0,Sometimes,Public_Transportation,Insufficient_Weight,18.37,Underweight,Sedentary,Moderate,Poorly hydrated
+Vincent,Leonard,Masculino,38.0,1.7,78.0,no,yes,3,Frequently,no,2,no,0,0,Frequently,Automobile,Overweight_Level_II,26.99,Overweight,Sedentary,Moderate,Poorly hydrated
+Danielle,Lewis,Femenino,17.0,1.67,60.0,no,no,4,Always,no,2,no,0,2,no,Public_Transportation,Normal_Weight,21.51,Normal weight,Sedentary,Low,Poorly hydrated
+Angelica,Young,Femenino,23.0,1.72,66.0,yes,yes,3,Sometimes,no,2,no,0,1,Sometimes,Walking,Normal_Weight,22.31,Normal weight,Sedentary,High,Poorly hydrated
+Amy,Graham,Femenino,23.0,1.82,107.0,no,yes,3,Sometimes,no,3,no,0,1,Sometimes,Public_Transportation,Obesity_Type_I,32.3,Obesity Class I,Sedentary,Moderate,Poorly hydrated
+Hannah,Jones,Femenino,19.0,1.5,50.0,no,yes,3,Frequently,no,1,no,0,2,Sometimes,Public_Transportation,Normal_Weight,22.22,Normal weight,Sedentary,Moderate,Poorly hydrated
+Shelly,Irwin,Femenino,18.0,1.7,60.0,no,yes,3,Sometimes,no,2,no,2,1,no,Public_Transportation,Normal_Weight,20.76,Normal weight,Moderately active,Low,Poorly hydrated
+Dustin,West,Masculino,25.0,1.71,71.0,yes,yes,3,Frequently,no,2,no,0,0,Sometimes,Motorbike,Normal_Weight,24.28,Normal weight,Sedentary,High,Poorly hydrated
+Destiny,Baker,Femenino,25.0,1.61,61.0,no,no,3,Sometimes,no,1,no,2,1,Sometimes,Public_Transportation,Normal_Weight,23.53,Normal weight,Moderately active,Moderate,Poorly hydrated
+Cameron,Moore,Masculino,18.0,1.5,50.0,yes,yes,3,Frequently,no,2,no,0,1,Sometimes,Public_Transportation,Normal_Weight,22.22,Normal weight,Sedentary,High,Poorly hydrated
+Steven,Dean,Masculino,16.0,1.67,50.0,yes,yes,1,Frequently,no,3,no,1,0,no,Public_Transportation,Insufficient_Weight,17.93,Underweight,Moderately active,Moderate,Poorly hydrated
+Devin,Johnson,Masculino,21.0,1.82,67.0,no,yes,4,Always,yes,3,no,3,2,Sometimes,Walking,Normal_Weight,20.23,Normal weight,Active,High,Poorly hydrated
+Jennifer,Williams,Femenino,32.0,1.57,57.0,yes,yes,3,Sometimes,no,2,no,0,0,Sometimes,Automobile,Normal_Weight,23.12,Normal weight,Sedentary,High,Poorly hydrated
+Jacob,Peck,Masculino,18.0,1.79,52.0,no,no,3,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Insufficient_Weight,16.23,Underweight,Moderately active,Moderate,Poorly hydrated
+Amanda,Lyons,Femenino,21.0,1.75,62.0,no,yes,4,Frequently,yes,2,no,0,0,Sometimes,Public_Transportation,Normal_Weight,20.24,Normal weight,Sedentary,High,Poorly hydrated
+Kevin,Cook,Masculino,18.0,1.7,55.0,yes,yes,3,Frequently,no,2,no,0,0,Sometimes,Public_Transportation,Normal_Weight,19.03,Normal weight,Sedentary,High,Poorly hydrated
+Eric,Simmons,Masculino,18.0,1.62,55.0,yes,yes,3,Frequently,no,1,no,1,1,no,Public_Transportation,Normal_Weight,20.96,Normal weight,Moderately active,Moderate,Poorly hydrated
+Christine,Caldwell,Femenino,17.0,1.69,60.0,no,no,3,Sometimes,no,3,no,2,1,Sometimes,Walking,Normal_Weight,21.01,Normal weight,Moderately active,Moderate,Poorly hydrated
+Kari,Henry,Femenino,20.0,1.77,70.0,yes,yes,1,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Normal_Weight,22.34,Normal weight,Moderately active,High,Poorly hydrated
+James,Brown,Masculino,21.0,1.79,105.0,yes,yes,3,Always,no,1,no,0,0,Sometimes,Public_Transportation,Obesity_Type_I,32.77,Obesity Class I,Sedentary,High,Poorly hydrated
+Phillip,Young,Masculino,21.0,1.6,61.0,no,yes,3,Sometimes,no,1,no,1,1,Sometimes,Public_Transportation,Normal_Weight,23.83,Normal weight,Moderately active,Moderate,Poorly hydrated
+Amanda,Henderson,Femenino,18.0,1.6,58.0,yes,yes,3,Sometimes,no,3,no,3,0,no,Public_Transportation,Normal_Weight,22.66,Normal weight,Active,Moderate,Poorly hydrated
+Natalie,Turner,Femenino,17.0,1.56,51.0,no,yes,3,Sometimes,no,1,no,0,2,no,Public_Transportation,Normal_Weight,20.96,Normal weight,Sedentary,Low,Poorly hydrated
+Troy,Harrington,Masculino,19.0,1.88,79.0,no,no,3,Sometimes,no,3,no,3,0,Sometimes,Automobile,Normal_Weight,22.35,Normal weight,Active,Moderate,Poorly hydrated
+Thomas,Lara,Masculino,16.0,1.82,71.0,yes,yes,3,Frequently,no,2,no,2,1,Sometimes,Public_Transportation,Normal_Weight,21.43,Normal weight,Moderately active,High,Poorly hydrated
+Kristine,Morgan,Femenino,17.0,1.8,58.0,no,yes,3,Frequently,no,2,no,2,1,no,Walking,Insufficient_Weight,17.9,Underweight,Moderately active,Low,Poorly hydrated
+Margaret,Mccoy,Femenino,21.0,1.7,65.0,yes,yes,3,Frequently,no,1,no,1,1,no,Public_Transportation,Normal_Weight,22.49,Normal weight,Moderately active,Moderate,Poorly hydrated
+Angelica,King,Femenino,19.0,1.82,75.0,yes,no,3,Frequently,no,2,no,1,0,no,Public_Transportation,Normal_Weight,22.64,Normal weight,Moderately active,Moderate,Poorly hydrated
+Patrick,Williams,Masculino,18.0,1.86,110.0,yes,yes,1,Sometimes,yes,2,no,1,2,Sometimes,Public_Transportation,Obesity_Type_I,31.8,Obesity Class I,Moderately active,High,Poorly hydrated
+Tamara,Davis,Femenino,16.0,1.66,58.0,no,no,1,Sometimes,no,1,no,0,1,no,Walking,Normal_Weight,21.05,Normal weight,Sedentary,Low,Poorly hydrated
+Shelly,Richardson,Femenino,21.0,1.53,53.0,no,yes,3,Sometimes,no,2,no,2,1,Sometimes,Public_Transportation,Normal_Weight,22.64,Normal weight,Moderately active,Moderate,Poorly hydrated
+Candace,Hodges,Femenino,26.0,1.74,80.0,no,no,3,Sometimes,no,2,no,2,0,no,Automobile,Overweight_Level_I,26.42,Overweight,Moderately active,Low,Poorly hydrated
+Sarah,Baker,Femenino,18.0,1.8,80.0,yes,yes,3,Frequently,no,1,no,0,1,Frequently,Public_Transportation,Normal_Weight,24.69,Normal weight,Sedentary,High,Poorly hydrated
+John,Sosa,Masculino,23.0,1.7,75.0,no,yes,3,Sometimes,no,3,no,1,2,Sometimes,Public_Transportation,Overweight_Level_I,25.95,Overweight,Moderately active,Moderate,Poorly hydrated
+Danielle,Lee,Femenino,26.0,1.7,70.0,no,yes,3,Sometimes,yes,1,no,0,0,Sometimes,Public_Transportation,Normal_Weight,24.22,Normal weight,Sedentary,High,Poorly hydrated
+Margaret,Poole,Femenino,18.0,1.72,55.0,no,yes,4,Sometimes,no,2,no,2,1,Sometimes,Public_Transportation,Normal_Weight,18.59,Normal weight,Moderately active,Moderate,Poorly hydrated
+Brian,Stone,Masculino,16.0,1.84,45.0,yes,yes,3,Always,no,3,no,3,2,Sometimes,Walking,Insufficient_Weight,13.29,Underweight,Active,High,Poorly hydrated
+Jamie,Robbins,Femenino,16.0,1.57,49.0,no,yes,4,Always,no,2,no,0,1,Sometimes,Public_Transportation,Normal_Weight,19.88,Normal weight,Sedentary,Moderate,Poorly hydrated
+Sarah,Wilcox,Femenino,20.0,1.8,85.0,yes,no,3,Sometimes,no,3,no,2,1,Sometimes,Public_Transportation,Overweight_Level_I,26.23,Overweight,Moderately active,High,Poorly hydrated
+Jamie,Cox,Femenino,23.0,1.75,120.0,yes,yes,3,Sometimes,yes,2,no,2,1,Sometimes,Public_Transportation,Obesity_Type_II,39.18,Obesity Class II,Moderately active,High,Poorly hydrated
+Blake,Hall,Masculino,24.0,1.56,60.0,yes,yes,3,Always,no,2,no,0,2,Sometimes,Public_Transportation,Normal_Weight,24.65,Normal weight,Sedentary,High,Poorly hydrated
+Kimberly,Alexander,Femenino,23.0,1.59,48.0,yes,yes,1,Frequently,no,1,no,0,2,Sometimes,Public_Transportation,Normal_Weight,18.99,Normal weight,Sedentary,High,Poorly hydrated
+Beth,Cunningham,Femenino,20.0,1.8,75.0,no,yes,4,Always,no,3,no,2,0,Sometimes,Public_Transportation,Normal_Weight,23.15,Normal weight,Moderately active,Moderate,Poorly hydrated
+Christopher,Horn,Masculino,16.0,1.66,58.0,no,no,1,Sometimes,no,1,no,0,1,no,Walking,Normal_Weight,21.05,Normal weight,Sedentary,Low,Poorly hydrated
+Laura,Burns,Femenino,17.0,1.79,57.0,yes,yes,4,Frequently,no,2,no,2,1,no,Public_Transportation,Insufficient_Weight,17.79,Underweight,Moderately active,Moderate,Poorly hydrated
+Samantha,Kramer,Femenino,17.0,1.72,62.0,no,yes,3,Always,no,2,no,3,1,no,Public_Transportation,Normal_Weight,20.96,Normal weight,Active,Low,Poorly hydrated
+Tonya,Kim,Femenino,16.0,1.6,57.0,no,yes,3,Sometimes,no,1,no,3,0,no,Public_Transportation,Normal_Weight,22.27,Normal weight,Active,Low,Poorly hydrated
+Brent,Rivera,Masculino,17.0,1.66,56.0,yes,yes,3,Always,no,2,no,1,1,Sometimes,Public_Transportation,Normal_Weight,20.32,Normal weight,Moderately active,High,Poorly hydrated
+Gregory,Collins,Masculino,26.0,1.65,63.0,no,yes,3,Sometimes,no,1,no,1,0,no,Walking,Normal_Weight,23.14,Normal weight,Moderately active,Low,Poorly hydrated
+Margaret,Escobar,Femenino,26.0,1.7,72.0,no,yes,3,Always,no,2,no,0,0,Sometimes,Public_Transportation,Normal_Weight,24.91,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Christopher,Campbell,Masculino,38.0,1.75,75.0,yes,no,3,Frequently,no,1,no,2,1,no,Automobile,Normal_Weight,24.49,Normal weight,Moderately active,Moderate,Poorly hydrated
+Joseph,Nunez,Masculino,18.0,1.75,70.0,no,yes,4,Sometimes,no,2,no,1,1,no,Public_Transportation,Normal_Weight,22.86,Normal weight,Moderately active,Low,Poorly hydrated
+Roy,Anderson,Masculino,25.0,1.56,45.0,no,yes,3,Sometimes,no,1,no,0,0,Sometimes,Public_Transportation,Normal_Weight,18.49,Underweight,Sedentary,Moderate,Poorly hydrated
+Ashley,Ferguson,Femenino,27.0,1.55,63.0,no,yes,3,Sometimes,no,1,no,0,1,Sometimes,Automobile,Overweight_Level_I,26.22,Overweight,Sedentary,Moderate,Poorly hydrated
+John,Roberts,Masculino,21.0,1.67,67.0,yes,yes,1,Always,no,2,no,1,1,no,Public_Transportation,Normal_Weight,24.02,Normal weight,Moderately active,Moderate,Poorly hydrated
+Samuel,Dunn,Masculino,38.0,1.75,75.0,yes,no,3,Frequently,no,1,no,3,1,no,Automobile,Normal_Weight,24.49,Normal weight,Active,Moderate,Poorly hydrated
+Scott,Rivera,Masculino,23.0,1.75,56.0,no,no,3,Frequently,no,2,no,2,0,Sometimes,Public_Transportation,Insufficient_Weight,18.29,Underweight,Moderately active,Moderate,Poorly hydrated
+Jerry,Spencer,Masculino,18.0,1.8,72.0,yes,yes,3,Sometimes,no,2,no,3,0,Sometimes,Automobile,Normal_Weight,22.22,Normal weight,Active,High,Poorly hydrated
+Justin,Parker,Masculino,30.0,1.65,71.0,yes,yes,3,Sometimes,no,1,no,0,0,Sometimes,Public_Transportation,Overweight_Level_I,26.08,Overweight,Sedentary,High,Poorly hydrated
+Peter,Fischer,Masculino,21.0,1.55,58.0,no,yes,1,Sometimes,no,1,no,1,0,Sometimes,Public_Transportation,Normal_Weight,24.14,Normal weight,Moderately active,Moderate,Poorly hydrated
+Mary,Daniels,Femenino,18.0,1.7,55.3,yes,yes,3,Sometimes,no,2,no,3,0,Sometimes,Public_Transportation,Normal_Weight,19.13,Normal weight,Active,High,Poorly hydrated
+Mikayla,Smith,Femenino,23.0,1.72,76.0,yes,no,4,Frequently,no,1,no,0,0,Sometimes,Public_Transportation,Overweight_Level_I,25.69,Overweight,Sedentary,High,Poorly hydrated
+Kelli,Douglas,Femenino,19.0,1.74,74.0,yes,no,1,Sometimes,no,3,no,3,1,Sometimes,Walking,Normal_Weight,24.44,Normal weight,Active,High,Poorly hydrated
+David,Porter,Masculino,19.0,1.65,82.0,yes,yes,3,Sometimes,no,1,no,0,1,Sometimes,Public_Transportation,Obesity_Type_I,30.12,Obesity Class I,Sedentary,High,Poorly hydrated
+Paul,Frazier,Masculino,17.0,1.8,50.0,no,yes,4,Frequently,no,1,no,2,1,Sometimes,Public_Transportation,Insufficient_Weight,15.43,Underweight,Moderately active,Moderate,Poorly hydrated
+Chris,Miles,Masculino,17.0,1.74,56.0,yes,yes,3,Sometimes,no,2,no,2,1,no,Public_Transportation,Normal_Weight,18.5,Normal weight,Moderately active,Moderate,Poorly hydrated
+Adam,Gutierrez,Masculino,27.0,1.85,75.0,yes,yes,1,Sometimes,no,2,no,1,0,no,Walking,Normal_Weight,21.91,Normal weight,Moderately active,Moderate,Poorly hydrated
+Yolanda,Phillips,Femenino,23.0,1.7,56.0,no,no,4,Always,no,3,yes,3,0,no,Automobile,Normal_Weight,19.38,Normal weight,Active,Low,Poorly hydrated
+Katelyn,Harris,Femenino,18.0,1.45,53.0,no,yes,3,Frequently,no,2,yes,1,2,Frequently,Public_Transportation,Overweight_Level_I,25.21,Overweight,Moderately active,Moderate,Poorly hydrated
+Elizabeth,Wilson,Femenino,19.0,1.7,50.0,no,yes,4,Frequently,no,1,no,2,1,Sometimes,Public_Transportation,Insufficient_Weight,17.3,Underweight,Moderately active,Moderate,Poorly hydrated
+William,Myers,Masculino,20.0,1.7,65.0,no,yes,3,Sometimes,no,2,no,0,1,no,Public_Transportation,Normal_Weight,22.49,Normal weight,Sedentary,Low,Poorly hydrated
+Ricardo,Brown,Masculino,18.0,1.78,64.4,yes,yes,3,Frequently,no,2,no,3,2,no,Walking,Normal_Weight,20.33,Normal weight,Active,Moderate,Poorly hydrated
+Jacqueline,Harmon,Femenino,17.0,1.6,65.0,no,yes,1,Sometimes,no,2,yes,1,2,Sometimes,Public_Transportation,Overweight_Level_I,25.39,Overweight,Moderately active,Moderate,Poorly hydrated
+Tammy,Pham,Femenino,19.0,1.53,42.0,no,no,3,Sometimes,no,1,yes,2,0,Frequently,Public_Transportation,Insufficient_Weight,17.94,Underweight,Moderately active,Moderate,Poorly hydrated
+Rebecca,Payne,Femenino,21.0,1.8,72.0,no,yes,3,Sometimes,no,2,no,1,1,no,Public_Transportation,Normal_Weight,22.22,Normal weight,Moderately active,Low,Poorly hydrated
+Jeffrey,Smith,Masculino,20.0,1.6,50.0,no,no,3,Sometimes,no,1,no,0,0,Sometimes,Public_Transportation,Normal_Weight,19.53,Normal weight,Sedentary,Moderate,Poorly hydrated
+Jeffrey,Smith,Masculino,20.0,1.6,50.0,no,no,3,Sometimes,no,203,no,0,1,Sometimes,Public_Transportation,Obesity_Type_I,19.53,Normal weight,Sedentary,Moderate,Well hydrated
+Kathryn,Goodman,Femenino,23.0,1.74,105.0,yes,yes,3,Sometimes,no,2,no,1,0,Sometimes,Public_Transportation,Obesity_Type_I,34.68,Obesity Class I,Moderately active,High,Poorly hydrated
+Amy,Woodward,Femenino,23.0,1.65,66.0,no,no,3,Sometimes,no,2,no,3,0,no,Public_Transportation,Normal_Weight,24.24,Normal weight,Active,Low,Poorly hydrated
+Jerry,Washington,Masculino,18.0,1.87,173.0,yes,yes,3,Frequently,no,2,no,2,1,Sometimes,Public_Transportation,Obesity_Type_III,49.47,Obesity Class III,Moderately active,High,Poorly hydrated
+Kristina,Wallace,Femenino,17.0,1.7,55.0,no,yes,3,Always,no,2,no,3,1,Sometimes,Public_Transportation,Normal_Weight,19.03,Normal weight,Active,Moderate,Poorly hydrated
+Teresa,Harris,Femenino,21.0,1.54,47.0,yes,no,3,Always,no,1,no,2,0,no,Public_Transportation,Normal_Weight,19.82,Normal weight,Moderately active,Moderate,Poorly hydrated
+Danielle,Burns,Femenino,17.0,1.8,97.0,yes,yes,3,Sometimes,no,3,no,1,1,Sometimes,Walking,Overweight_Level_II,29.94,Obesity Class III,Moderately active,High,Poorly hydrated
+Martin,Smith,Masculino,18.0,1.82,80.0,yes,yes,3,Sometimes,no,2,no,3,2,no,Walking,Normal_Weight,24.15,Normal weight,Active,Moderate,Poorly hydrated
+Charles,Evans,Masculino,20.0,1.98,125.0,yes,yes,3,Always,no,3,no,1,1,Sometimes,Public_Transportation,Obesity_Type_I,31.88,Obesity Class I,Moderately active,High,Poorly hydrated
+Jessica,Bruce,Femenino,17.0,1.75,70.0,yes,no,3,Sometimes,no,1,no,3,2,Sometimes,Walking,Normal_Weight,22.86,Normal weight,Active,High,Poorly hydrated
+Austin,Hall,Masculino,26.0,1.65,60.0,no,no,4,Always,no,2,no,2,0,no,Walking,Normal_Weight,22.04,Normal weight,Moderately active,Low,Poorly hydrated
+Colleen,Frye,Femenino,17.0,1.6,53.0,no,yes,3,Sometimes,no,1,no,2,2,Sometimes,Walking,Normal_Weight,20.7,Normal weight,Moderately active,Moderate,Poorly hydrated
+Jeffrey,Walton,Masculino,24.0,1.6,51.0,yes,yes,3,Sometimes,no,2,no,0,1,Sometimes,Automobile,Normal_Weight,19.92,Normal weight,Sedentary,High,Poorly hydrated
+Christopher,Scott,Masculino,17.0,1.6,59.0,no,yes,3,Sometimes,no,2,no,1,2,no,Public_Transportation,Normal_Weight,23.05,Normal weight,Moderately active,Low,Poorly hydrated
+Hayden,Hawkins,Masculino,27.0,1.55,62.0,no,yes,1,Sometimes,no,1,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,25.81,Overweight,Moderately active,Moderate,Poorly hydrated
+Amanda,Bowen,Femenino,17.0,1.9,60.0,no,no,3,Sometimes,no,2,no,3,1,no,Walking,Insufficient_Weight,16.62,Underweight,Active,Low,Poorly hydrated
+Ashley,Young,Femenino,17.0,1.7,56.0,yes,yes,3,Sometimes,no,1,no,1,1,no,Automobile,Normal_Weight,19.38,Normal weight,Moderately active,Moderate,Poorly hydrated
+Robert,Rios,Masculino,41.0,1.75,110.0,yes,no,1,Sometimes,no,1,no,1,0,Frequently,Automobile,Obesity_Type_II,35.92,Obesity Class II,Moderately active,High,Poorly hydrated
+Brian,Marsh,Masculino,33.0,1.56,48.0,yes,no,3,Sometimes,no,2,no,1,0,Sometimes,Public_Transportation,Normal_Weight,19.72,Normal weight,Moderately active,High,Poorly hydrated
+Faith,Cannon,Femenino,20.0,1.87,75.0,no,yes,3,Frequently,no,1,no,1,1,Sometimes,Public_Transportation,Normal_Weight,21.45,Normal weight,Moderately active,Moderate,Poorly hydrated
+Jesse,Yoder,Masculino,40.0,1.56,80.0,yes,yes,1,Sometimes,no,2,no,2,0,no,Public_Transportation,Obesity_Type_I,32.87,Obesity Class I,Moderately active,Moderate,Poorly hydrated
+Michael,Morrison,Masculino,37.0,1.65,73.0,yes,no,3,Sometimes,no,2,no,1,0,Sometimes,Automobile,Overweight_Level_I,26.81,Overweight,Moderately active,High,Poorly hydrated
+Mark,Sanford,Masculino,19.0,1.8,80.0,no,yes,1,Sometimes,no,2,no,2,1,Sometimes,Public_Transportation,Normal_Weight,24.69,Normal weight,Moderately active,Moderate,Poorly hydrated
+Joshua,Fuller,Masculino,24.0,1.84,86.0,yes,yes,1,Always,no,2,no,2,1,Sometimes,Public_Transportation,Overweight_Level_I,25.4,Overweight,Moderately active,High,Poorly hydrated
+Cassandra,Galvan,Femenino,24.0,1.7,68.0,no,yes,3,Sometimes,no,2,no,0,0,Sometimes,Motorbike,Normal_Weight,23.53,Normal weight,Sedentary,Moderate,Poorly hydrated
+Margaret,Montoya,Femenino,33.0,1.72,83.0,yes,yes,1,Sometimes,no,2,no,3,0,Sometimes,Automobile,Overweight_Level_II,28.06,Overweight,Active,High,Poorly hydrated
+Kristin,Hicks,Femenino,40.0,1.58,63.0,no,yes,3,Frequently,no,2,no,3,1,Sometimes,Public_Transportation,Overweight_Level_I,25.24,Overweight,Active,Moderate,Poorly hydrated
+Richard,Warner,Masculino,37.0,1.68,83.0,yes,yes,1,Sometimes,no,2,no,0,0,no,Automobile,Overweight_Level_II,29.41,Overweight,Sedentary,Moderate,Poorly hydrated
+Richard,Horne,Masculino,20.0,1.58,74.0,no,no,3,Frequently,no,2,no,3,1,Sometimes,Public_Transportation,Overweight_Level_II,29.64,Overweight,Active,Moderate,Poorly hydrated
+Chelsea,Carter,Femenino,19.0,1.8,60.0,no,yes,3,Sometimes,no,1,no,1,1,no,Public_Transportation,Normal_Weight,18.52,Normal weight,Moderately active,Low,Poorly hydrated
+Nancy,Conway,Femenino,17.0,1.62,69.0,yes,yes,1,Always,no,2,yes,1,2,Sometimes,Public_Transportation,Overweight_Level_I,26.29,Overweight,Moderately active,High,Poorly hydrated
+Thomas,Lloyd,Masculino,18.0,1.62,58.0,no,yes,3,Sometimes,no,1,no,0,2,no,Automobile,Normal_Weight,22.1,Normal weight,Sedentary,Low,Poorly hydrated
+Joseph,Rollins,Masculino,21.0,1.54,56.0,no,yes,1,Sometimes,no,2,no,0,2,Sometimes,Public_Transportation,Normal_Weight,23.61,Normal weight,Sedentary,Moderate,Poorly hydrated
+Joseph,Watson,Masculino,18.0,1.76,70.0,yes,yes,4,Frequently,no,2,no,2,1,Sometimes,Automobile,Normal_Weight,22.6,Normal weight,Moderately active,High,Poorly hydrated
+Timothy,Miller,Masculino,41.0,1.8,92.0,yes,yes,1,Frequently,no,3,no,1,0,Sometimes,Automobile,Overweight_Level_II,28.4,Overweight,Moderately active,High,Poorly hydrated
+Jesus,Frederick,Masculino,36.0,1.58,60.0,yes,no,3,Sometimes,no,1,no,2,0,Sometimes,Automobile,Normal_Weight,24.03,Normal weight,Moderately active,High,Poorly hydrated
+Andrea,Humphrey,Femenino,18.0,1.76,68.0,no,no,4,Frequently,no,2,no,1,1,Sometimes,Public_Transportation,Normal_Weight,21.95,Normal weight,Moderately active,Moderate,Poorly hydrated
+Susan,Kramer,Femenino,18.0,1.73,70.0,no,yes,3,Frequently,no,1,no,2,1,Sometimes,Public_Transportation,Normal_Weight,23.39,Normal weight,Moderately active,Moderate,Poorly hydrated
+Brian,Smith,Masculino,17.0,1.7,70.0,yes,yes,3,Sometimes,no,2,no,0,2,Sometimes,Walking,Normal_Weight,24.22,Normal weight,Sedentary,High,Poorly hydrated
+Jeremy,Pitts,Masculino,25.0,1.7,83.0,no,yes,3,Sometimes,no,3,yes,3,0,no,Motorbike,Overweight_Level_II,28.72,Overweight,Active,Low,Poorly hydrated
+Matthew,Watkins,Masculino,21.0,1.8,75.0,yes,yes,3,Frequently,no,1,no,2,0,Sometimes,Public_Transportation,Normal_Weight,23.15,Normal weight,Moderately active,High,Poorly hydrated
+Jamie,Conner,Femenino,29.0,1.6,56.0,yes,no,3,Frequently,no,1,no,0,1,Sometimes,Public_Transportation,Normal_Weight,21.87,Normal weight,Sedentary,High,Poorly hydrated
+James,Holland,Masculino,17.0,1.7,98.0,yes,no,3,Sometimes,no,2,no,0,1,Sometimes,Automobile,Obesity_Type_I,33.91,Obesity Class I,Sedentary,High,Poorly hydrated
+Jamie,Eaton,Femenino,18.0,1.6,60.0,yes,yes,1,Sometimes,no,1,yes,0,2,no,Walking,Normal_Weight,23.44,Normal weight,Sedentary,Moderate,Poorly hydrated
+David,Wall,Masculino,16.0,1.55,45.0,no,yes,3,Frequently,no,2,no,1,1,no,Public_Transportation,Normal_Weight,18.73,Normal weight,Moderately active,Low,Poorly hydrated
+Drew,Snyder,Masculino,18.0,1.59,53.0,no,no,3,Sometimes,no,1,no,1,2,no,Public_Transportation,Normal_Weight,20.96,Normal weight,Moderately active,Low,Poorly hydrated
+Patrick,Mcdonald,Masculino,37.0,1.5,75.0,yes,yes,3,Frequently,no,1,no,0,0,Sometimes,Motorbike,Obesity_Type_I,33.33,Obesity Class I,Sedentary,High,Poorly hydrated
+Jeffrey,Bradley,Masculino,18.0,1.78,108.0,yes,no,3,Sometimes,no,3,no,1,0,no,Public_Transportation,Obesity_Type_I,34.09,Obesity Class I,Moderately active,Moderate,Poorly hydrated
+Alexander,Martin,Masculino,16.0,1.61,65.0,yes,yes,1,Sometimes,no,2,no,0,0,no,Public_Transportation,Overweight_Level_I,25.08,Overweight,Sedentary,Moderate,Poorly hydrated
+Derek,Martinez,Masculino,23.0,1.71,50.0,yes,yes,3,Always,no,3,no,0,2,no,Public_Transportation,Insufficient_Weight,17.1,Underweight,Sedentary,Moderate,Poorly hydrated
+Isaiah,Terrell,Masculino,18.0,1.7,50.0,no,no,3,Sometimes,no,2,no,0,1,Sometimes,Walking,Insufficient_Weight,17.3,Underweight,Sedentary,Moderate,Poorly hydrated
+Jared,Jones,Masculino,18.0,1.76,69.5,no,no,3,Frequently,no,3,no,2,2,no,Public_Transportation,Normal_Weight,22.44,Normal weight,Moderately active,Low,Poorly hydrated
+Brenda,Hill,Femenino,18.0,1.7,78.0,no,yes,3,Sometimes,no,2,no,0,1,Sometimes,Public_Transportation,Overweight_Level_II,26.99,Overweight,Sedentary,Moderate,Poorly hydrated
+Daniel,Osborn,Masculino,17.0,1.53,55.0,yes,yes,3,Sometimes,no,1,no,0,1,no,Public_Transportation,Normal_Weight,23.5,Normal weight,Sedentary,Moderate,Poorly hydrated
+Kerry,Bailey,Masculino,20.0,1.54,39.0,yes,yes,3,Sometimes,no,2,no,3,2,Sometimes,Public_Transportation,Insufficient_Weight,16.44,Underweight,Active,High,Poorly hydrated
+Patricia,Anderson,Femenino,38.0,1.55,59.0,yes,no,3,Sometimes,no,1,no,2,1,Frequently,Automobile,Normal_Weight,24.56,Normal weight,Moderately active,High,Poorly hydrated
+Veronica,Kelley,Femenino,20.0,1.66,60.0,no,yes,4,Frequently,no,3,no,0,0,no,Public_Transportation,Normal_Weight,21.77,Normal weight,Sedentary,Low,Poorly hydrated
+Gabrielle,Washington,Femenino,21.0,1.85,125.0,yes,yes,1,Always,no,1,no,0,0,Sometimes,Public_Transportation,Obesity_Type_II,36.52,Obesity Class II,Sedentary,High,Poorly hydrated
+Debra,Johnston,Femenino,21.0,1.65,60.0,no,no,1,Frequently,no,1,no,0,0,Sometimes,Motorbike,Normal_Weight,22.04,Normal weight,Sedentary,Moderate,Poorly hydrated
+Darlene,Duarte,Femenino,18.0,1.65,70.0,yes,no,3,Sometimes,no,2,no,0,0,no,Public_Transportation,Overweight_Level_I,25.71,Overweight,Sedentary,Moderate,Poorly hydrated
+Felicia,Smith,Femenino,26.0,1.83,82.0,no,yes,3,Always,no,2,no,1,1,Sometimes,Public_Transportation,Normal_Weight,24.49,Normal weight,Moderately active,Moderate,Poorly hydrated
+Thomas,Case,Masculino,27.0,1.83,99.0,yes,yes,1,Frequently,no,2,no,2,1,Sometimes,Walking,Overweight_Level_II,29.56,Overweight,Moderately active,High,Poorly hydrated
+Julie,Walker,Femenino,26.0,1.66,112.0,yes,no,3,Sometimes,no,3,no,0,0,no,Automobile,Obesity_Type_III,40.64,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Derek,Haynes,Masculino,34.0,1.78,73.0,no,yes,3,Sometimes,no,2,no,3,1,Sometimes,Automobile,Normal_Weight,23.04,Normal weight,Active,Moderate,Poorly hydrated
+Veronica,Miller,Femenino,18.0,1.74,86.0,no,no,3,Sometimes,no,2,no,3,0,no,Public_Transportation,Overweight_Level_II,28.41,Overweight,Active,Low,Poorly hydrated
+Erin,Cooper,Femenino,33.0,1.76,66.5,no,no,3,Sometimes,no,2,no,3,1,Sometimes,Automobile,Normal_Weight,21.47,Normal weight,Active,Moderate,Poorly hydrated
+Walter,Stark,Masculino,19.0,1.51,59.0,yes,yes,3,Frequently,no,1,no,1,2,Sometimes,Walking,Overweight_Level_I,25.88,Overweight,Moderately active,High,Poorly hydrated
+Jonathon,Peck,Masculino,20.0,1.81,79.0,yes,no,1,Sometimes,no,2,no,0,0,Sometimes,Public_Transportation,Normal_Weight,24.11,Normal weight,Sedentary,High,Poorly hydrated
+Matthew,Brock,Masculino,33.0,1.55,55.0,yes,yes,1,Sometimes,no,3,no,2,1,Sometimes,Public_Transportation,Normal_Weight,22.89,Normal weight,Moderately active,High,Poorly hydrated
+Samantha,Baker,Femenino,20.0,1.83,66.0,no,no,3,Sometimes,no,2,no,1,1,no,Public_Transportation,Normal_Weight,19.71,Normal weight,Moderately active,Low,Poorly hydrated
+Maureen,Carey,Femenino,20.0,1.6,65.0,no,no,3,Sometimes,no,2,yes,0,0,Sometimes,Public_Transportation,Overweight_Level_I,25.39,Overweight,Sedentary,Moderate,Poorly hydrated
+Edward,Burgess,Masculino,33.0,1.85,85.0,no,yes,3,Frequently,no,2,no,1,0,Sometimes,Automobile,Normal_Weight,24.84,Normal weight,Moderately active,Moderate,Poorly hydrated
+Diamond,Kennedy,Femenino,33.0,1.75,85.0,no,no,3,Sometimes,no,2,yes,1,0,Sometimes,Public_Transportation,Overweight_Level_II,27.76,Overweight,Moderately active,Moderate,Poorly hydrated
+Meredith,Hughes,Femenino,33.0,1.83,113.0,yes,yes,1,Always,no,2,no,1,2,Frequently,Automobile,Obesity_Type_I,33.74,Obesity Class I,Moderately active,High,Poorly hydrated
+Randy,Martinez,Masculino,14.0,1.71,72.0,yes,yes,3,Sometimes,no,3,no,2,1,no,Walking,Normal_Weight,24.62,Normal weight,Moderately active,Moderate,Poorly hydrated
+Michael,Moore,Masculino,34.0,1.84,88.0,no,yes,3,Sometimes,no,1,yes,2,0,no,Automobile,Overweight_Level_I,25.99,Overweight,Moderately active,Low,Poorly hydrated
+Destiny,Livingston,Femenino,18.0,1.77,87.0,yes,yes,3,Sometimes,no,2,no,1,1,Frequently,Public_Transportation,Overweight_Level_II,27.77,Overweight,Moderately active,High,Poorly hydrated
+Brian,Bailey,Masculino,18.0,1.7,90.0,no,yes,3,Sometimes,no,2,no,2,0,Sometimes,Public_Transportation,Obesity_Type_I,31.14,Obesity Class I,Moderately active,Moderate,Poorly hydrated
+Samuel,Daniels,Masculino,29.0,1.62,89.0,yes,yes,3,Sometimes,no,1,no,0,0,Sometimes,Public_Transportation,Obesity_Type_I,33.91,Obesity Class I,Sedentary,High,Poorly hydrated
+Francisco,Mccann,Masculino,18.0,1.85,60.0,yes,yes,4,Sometimes,no,2,yes,2,0,Sometimes,Automobile,Insufficient_Weight,17.53,Underweight,Moderately active,High,Poorly hydrated
+Amy,Wells,Femenino,18.0,1.84,60.0,yes,yes,4,Sometimes,no,2,yes,2,0,Sometimes,Automobile,Insufficient_Weight,17.72,Underweight,Moderately active,High,Poorly hydrated
+Chris,Drake,Masculino,19.0,1.75,58.0,no,yes,3,Sometimes,no,2,no,2,0,Sometimes,Bike,Normal_Weight,18.94,Normal weight,Moderately active,Moderate,Poorly hydrated
+Katherine,White,Femenino,33.0,1.85,93.0,yes,yes,3,Sometimes,no,1,no,1,1,Sometimes,Walking,Overweight_Level_II,27.17,Overweight,Moderately active,High,Poorly hydrated
+Jeffrey,Patel,Masculino,33.0,1.74,76.0,no,no,3,Sometimes,no,1,no,0,2,Sometimes,Walking,Overweight_Level_I,25.1,Overweight,Sedentary,Moderate,Poorly hydrated
+David,Hays,Masculino,19.0,1.61,53.8,yes,yes,3,Always,no,2,no,2,1,Sometimes,Public_Transportation,Normal_Weight,20.76,Normal weight,Moderately active,High,Poorly hydrated
+Natalie,Long,Femenino,22.0,1.75,70.0,no,no,3,Sometimes,no,3,no,1,1,no,Public_Transportation,Normal_Weight,22.86,Normal weight,Moderately active,Low,Poorly hydrated
+Natalie,Cowan,Femenino,20.0,1.67,60.0,no,yes,3,no,no,2,no,3,0,Sometimes,Public_Transportation,Normal_Weight,21.51,Normal weight,Active,Moderate,Poorly hydrated
+Laura,Greene,Femenino,23.0,1.7,69.0,no,yes,1,Frequently,no,1,no,2,1,Sometimes,Public_Transportation,Normal_Weight,23.88,Normal weight,Moderately active,Moderate,Poorly hydrated
+Matthew,Stewart,Masculino,26.0,1.9,80.0,yes,yes,3,Frequently,no,1,yes,1,0,Sometimes,Automobile,Normal_Weight,22.16,Normal weight,Moderately active,High,Poorly hydrated
+Jose,Johnson,Masculino,18.0,1.65,85.0,no,yes,3,Sometimes,no,1,no,1,0,Sometimes,Public_Transportation,Obesity_Type_I,31.22,Obesity Class I,Moderately active,Moderate,Poorly hydrated
+Brooke,Ruiz,Femenino,18.0,1.6,55.0,no,yes,4,Frequently,no,2,no,2,1,Sometimes,Public_Transportation,Normal_Weight,21.48,Normal weight,Moderately active,Moderate,Poorly hydrated
+Catherine,Wood,Femenino,19.0,1.8,70.0,no,yes,3,Frequently,no,1,no,2,0,no,Public_Transportation,Normal_Weight,21.6,Normal weight,Moderately active,Low,Poorly hydrated
+Angela,Hicks,Femenino,18.0,1.64,59.0,yes,yes,3,Sometimes,no,1,no,1,1,Sometimes,Public_Transportation,Normal_Weight,21.94,Normal weight,Moderately active,High,Poorly hydrated
+April,Fletcher,Femenino,19.0,1.89,87.0,no,yes,4,Frequently,no,2,no,3,1,Frequently,Automobile,Normal_Weight,24.36,Normal weight,Active,Moderate,Poorly hydrated
+Andrew,Lee,Masculino,19.0,1.76,80.0,yes,yes,1,Sometimes,no,3,no,3,1,no,Public_Transportation,Overweight_Level_I,25.83,Overweight,Active,Moderate,Poorly hydrated
+Madison,Murphy,Femenino,18.0,1.56,55.0,no,yes,3,Sometimes,no,1,no,0,0,Frequently,Automobile,Normal_Weight,22.6,Normal weight,Sedentary,Moderate,Poorly hydrated
+Mia,Rogers,Femenino,18.0,1.6,56.0,yes,yes,1,Always,no,2,no,1,0,Sometimes,Walking,Normal_Weight,21.87,Normal weight,Moderately active,High,Poorly hydrated
+Paula,Norton,Femenino,19.0,1.67,64.0,no,yes,3,Sometimes,no,2,no,2,1,Sometimes,Automobile,Normal_Weight,22.95,Normal weight,Moderately active,Moderate,Poorly hydrated
+Chase,Howell,Masculino,19.0,1.6,60.0,no,yes,3,Frequently,no,2,no,0,1,Sometimes,Public_Transportation,Normal_Weight,23.44,Normal weight,Sedentary,Moderate,Poorly hydrated
+Emily,Rodriguez,Femenino,18.0,1.55,56.0,no,yes,3,Sometimes,no,1,no,0,0,no,Automobile,Normal_Weight,23.31,Normal weight,Sedentary,Low,Poorly hydrated
+Judy,Davis,Femenino,18.0,1.55,50.0,yes,yes,3,Frequently,no,1,no,1,2,no,Public_Transportation,Normal_Weight,20.81,Normal weight,Moderately active,Moderate,Poorly hydrated
+Nicole,Ramirez,Femenino,26.0,1.72,65.0,yes,yes,3,Sometimes,no,2,no,0,1,Sometimes,Walking,Normal_Weight,21.97,Normal weight,Sedentary,High,Poorly hydrated
+Michele,Payne,Femenino,18.0,1.72,53.0,yes,yes,3,Sometimes,no,2,no,0,2,Sometimes,Public_Transportation,Insufficient_Weight,17.92,Underweight,Sedentary,High,Poorly hydrated
+Sharon,Underwood,Femenino,19.0,1.7,60.0,yes,yes,1,Sometimes,no,2,no,2,0,Sometimes,Public_Transportation,Normal_Weight,20.76,Normal weight,Moderately active,High,Poorly hydrated
+Roy,Callahan,Masculino,19.0,1.51,45.0,no,yes,4,Sometimes,no,1,no,3,0,Sometimes,Public_Transportation,Normal_Weight,19.74,Normal weight,Active,Moderate,Poorly hydrated
+David,Wilson,Masculino,19.0,1.83,82.0,yes,yes,3,Frequently,no,2,no,2,0,Sometimes,Public_Transportation,Normal_Weight,24.49,Normal weight,Moderately active,High,Poorly hydrated
+Briana,Goodman,Femenino,19.0,1.8,87.0,yes,yes,4,Sometimes,no,2,no,2,1,Sometimes,Public_Transportation,Overweight_Level_I,26.85,Overweight,Moderately active,High,Poorly hydrated
+Susan,Marquez,Femenino,24.0,1.6,100.5,yes,yes,1,Sometimes,no,1,no,0,2,Sometimes,Public_Transportation,Obesity_Type_II,39.26,Obesity Class II,Sedentary,High,Poorly hydrated
+Paige,Yates,Femenino,18.0,1.63,63.0,yes,yes,3,Sometimes,no,2,no,2,2,Sometimes,Public_Transportation,Normal_Weight,23.71,Normal weight,Moderately active,High,Poorly hydrated
+Benjamin,Hernandez,Masculino,19.0,1.71,71.0,no,yes,3,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Normal_Weight,24.28,Normal weight,Moderately active,Moderate,Poorly hydrated
+Wendy,Brown,Femenino,19.0,1.7,65.0,yes,no,3,Frequently,no,2,no,1,0,no,Public_Transportation,Normal_Weight,22.49,Normal weight,Moderately active,Moderate,Poorly hydrated
+Jose,Holloway,Masculino,23.0,1.75,69.0,no,no,3,no,no,2,no,2,1,Sometimes,Automobile,Normal_Weight,22.53,Normal weight,Moderately active,Moderate,Poorly hydrated
+Theresa,Lee,Femenino,18.0,1.62,50.0,no,yes,3,Sometimes,no,1,no,0,0,Sometimes,Automobile,Normal_Weight,19.05,Normal weight,Sedentary,Moderate,Poorly hydrated
+Michele,Burns,Femenino,20.0,1.68,68.0,no,yes,1,Sometimes,no,1,no,1,0,no,Public_Transportation,Normal_Weight,24.09,Normal weight,Moderately active,Low,Poorly hydrated
+Heather,Dixon,Femenino,18.0,1.85,66.0,no,yes,3,Frequently,no,1,no,1,1,Sometimes,Public_Transportation,Normal_Weight,19.28,Normal weight,Moderately active,Moderate,Poorly hydrated
+Ryan,Mcdonald,Masculino,33.0,1.59,60.0,no,yes,1,Frequently,no,2,no,0,0,no,Public_Transportation,Normal_Weight,23.73,Normal weight,Sedentary,Low,Poorly hydrated
+Beth,Brady,Femenino,19.0,1.5,45.0,no,yes,3,Sometimes,no,1,no,0,0,Sometimes,Public_Transportation,Normal_Weight,20.0,Normal weight,Sedentary,Moderate,Poorly hydrated
+Jason,Rowe,Masculino,19.0,1.69,60.0,no,yes,3,Always,no,1,no,1,1,Sometimes,Public_Transportation,Normal_Weight,21.01,Normal weight,Moderately active,Moderate,Poorly hydrated
+Robert,Chambers,Masculino,19.0,1.76,79.0,yes,yes,3,Frequently,no,3,no,1,2,Frequently,Public_Transportation,Overweight_Level_I,25.5,Overweight,Moderately active,High,Poorly hydrated
+Kevin,Bowman,Masculino,18.0,1.62,55.0,yes,yes,3,Frequently,no,1,no,1,1,no,Public_Transportation,Normal_Weight,20.96,Normal weight,Moderately active,Moderate,Poorly hydrated
+Robin,Freeman,Femenino,21.0,1.71,100.0,yes,yes,1,Sometimes,no,2,no,0,2,no,Public_Transportation,Obesity_Type_I,34.2,Obesity Class I,Sedentary,Moderate,Poorly hydrated
+Sarah,Rasmussen,Femenino,27.0,1.72,88.0,yes,yes,1,Always,no,2,no,0,0,Sometimes,Automobile,Overweight_Level_II,29.75,Overweight,Sedentary,High,Poorly hydrated
+Rachel,Villegas,Femenino,17.0,1.8,68.0,yes,no,3,Sometimes,no,1,no,2,1,Sometimes,Public_Transportation,Normal_Weight,20.99,Normal weight,Moderately active,High,Poorly hydrated
+Larry,Jennings,Masculino,18.0,1.93,86.0,no,no,4,Always,no,2,no,2,0,Sometimes,Walking,Normal_Weight,23.09,Normal weight,Moderately active,Moderate,Poorly hydrated
+Angel,Andrews,Femenino,18.0,1.6,51.0,yes,yes,3,Frequently,no,1,no,1,1,Sometimes,Public_Transportation,Normal_Weight,19.92,Normal weight,Moderately active,High,Poorly hydrated
+Lance,Robinson,Masculino,22.0,1.74,75.0,yes,yes,3,Frequently,no,1,no,1,0,no,Automobile,Normal_Weight,24.77,Normal weight,Moderately active,Moderate,Poorly hydrated
+Joseph,Hughes,Masculino,22.0,1.74,75.0,yes,yes,3,Frequently,no,1,no,1,0,no,Automobile,Normal_Weight,24.77,Normal weight,Moderately active,Moderate,Poorly hydrated
+Thomas,Davis,Masculino,20.0,1.62,45.0,no,yes,3,Frequently,no,1,no,1,0,Sometimes,Public_Transportation,Insufficient_Weight,17.15,Underweight,Moderately active,Moderate,Poorly hydrated
+Thomas,Davis,Masculino,20.0,1.62,45.0,no,yes,3,Frequently,no,2,no,0,139,no,Public_Transportation,Obesity_Type_I,17.15,Underweight,Sedentary,Low,Poorly hydrated
+Jasmin,Garcia,Femenino,19.0,1.54,42.0,no,yes,1,Sometimes,no,2,no,0,1,no,Public_Transportation,Insufficient_Weight,17.71,Underweight,Sedentary,Low,Poorly hydrated
+Julie,Thompson,Femenino,20.0,1.56,51.5,no,yes,3,Frequently,no,2,no,3,0,Sometimes,Public_Transportation,Normal_Weight,21.16,Normal weight,Active,Moderate,Poorly hydrated
+Drew,Tate,Masculino,18.0,1.6,83.0,yes,yes,3,Sometimes,no,2,yes,1,0,no,Public_Transportation,Obesity_Type_I,32.42,Obesity Class I,Moderately active,Moderate,Poorly hydrated
+Kevin,Garcia,Masculino,18.0,1.54,71.0,no,no,4,Frequently,no,2,no,1,1,no,Public_Transportation,Overweight_Level_II,29.94,Obesity Class III,Moderately active,Low,Poorly hydrated
+Vanessa,Reynolds,Femenino,18.0,1.63,51.0,yes,yes,3,Frequently,no,1,no,1,0,Sometimes,Public_Transportation,Normal_Weight,19.2,Normal weight,Moderately active,High,Poorly hydrated
+Adam,Ellis,Masculino,19.0,1.78,64.0,no,yes,3,Sometimes,no,1,no,1,0,no,Public_Transportation,Normal_Weight,20.2,Normal weight,Moderately active,Low,Poorly hydrated
+Mario,Harris,Masculino,18.0,1.62,68.0,no,no,1,Sometimes,no,1,no,0,2,no,Public_Transportation,Overweight_Level_I,25.91,Overweight,Sedentary,Low,Poorly hydrated
+Alice,Adams,Femenino,18.0,1.71,75.0,yes,yes,3,Sometimes,no,2,no,1,0,no,Public_Transportation,Overweight_Level_I,25.65,Overweight,Moderately active,Moderate,Poorly hydrated
+Katherine,Johnson,Femenino,18.0,1.64,56.0,yes,yes,3,Frequently,no,1,yes,1,1,no,Public_Transportation,Normal_Weight,20.82,Normal weight,Moderately active,Moderate,Poorly hydrated
+Haley,Berg,Femenino,19.0,1.69,65.0,no,yes,3,Frequently,no,1,no,1,1,Sometimes,Public_Transportation,Normal_Weight,22.76,Normal weight,Moderately active,Moderate,Poorly hydrated
+Amanda,Mullins,Femenino,17.0,1.58,50.0,no,yes,4,Frequently,no,2,no,1,2,Sometimes,Public_Transportation,Normal_Weight,20.03,Normal weight,Moderately active,Moderate,Poorly hydrated
+Dennis,Griffin,Masculino,18.0,1.57,50.0,no,yes,3,Sometimes,no,1,no,0,1,Sometimes,Public_Transportation,Normal_Weight,20.28,Normal weight,Sedentary,Moderate,Poorly hydrated
+Kevin,Vega,Masculino,18.0,1.74,64.0,yes,yes,4,Sometimes,no,1,yes,2,0,Sometimes,Public_Transportation,Normal_Weight,21.14,Normal weight,Moderately active,High,Poorly hydrated
+Nancy,Stafford,Femenino,20.0,1.58,53.5,yes,yes,1,Frequently,no,2,no,1,1,Sometimes,Public_Transportation,Normal_Weight,21.43,Normal weight,Moderately active,High,Poorly hydrated
+Nathan,Curtis,Masculino,18.0,1.5,58.0,no,yes,3,Sometimes,no,1,no,0,0,no,Public_Transportation,Overweight_Level_I,25.78,Overweight,Sedentary,Low,Poorly hydrated
+Melissa,Little,Femenino,36.0,1.65,80.0,yes,yes,3,Sometimes,no,1,no,0,2,no,Automobile,Overweight_Level_II,29.38,Overweight,Sedentary,Moderate,Poorly hydrated
+Julie,Valdez,Femenino,21.0,1.8,73.0,yes,yes,3,Always,no,2,no,3,1,Sometimes,Public_Transportation,Normal_Weight,22.53,Normal weight,Active,High,Poorly hydrated
+Kari,May,Femenino,23.0,1.75,75.0,no,yes,3,Sometimes,no,2,no,1,0,Frequently,Public_Transportation,Normal_Weight,24.49,Normal weight,Moderately active,Moderate,Poorly hydrated
+Stephen,Potter,Masculino,20.0,1.84,104.0,yes,no,3,Sometimes,no,3,no,3,0,no,Motorbike,Obesity_Type_I,30.72,Obesity Class I,Active,Moderate,Poorly hydrated
+Christine,Moore,Femenino,21.0,1.88,84.0,yes,yes,3,Sometimes,no,3,no,2,1,Sometimes,Walking,Normal_Weight,23.77,Normal weight,Moderately active,High,Poorly hydrated
+Kendra,Evans,Femenino,19.0,1.56,50.0,no,yes,1,Sometimes,no,1,no,0,2,no,Public_Transportation,Normal_Weight,20.55,Normal weight,Sedentary,Low,Poorly hydrated
+Kathleen,Thomas,Femenino,24.0,1.75,84.0,no,yes,3,no,no,2,yes,1,0,Sometimes,Public_Transportation,Overweight_Level_II,27.43,Overweight,Moderately active,Moderate,Poorly hydrated
+Daniel,Martinez,Masculino,25.0,1.66,68.0,no,yes,3,Sometimes,yes,1,no,1,1,Sometimes,Public_Transportation,Normal_Weight,24.68,Normal weight,Moderately active,High,Poorly hydrated
+Sally,Gillespie,Femenino,45.0,1.7,86.0,no,yes,3,Frequently,no,1,no,0,0,no,Automobile,Overweight_Level_II,29.76,Overweight,Sedentary,Low,Poorly hydrated
+Eric,Obrien,Masculino,20.0,1.8,65.0,no,yes,3,Frequently,no,1,no,2,0,Sometimes,Motorbike,Normal_Weight,20.06,Normal weight,Moderately active,Moderate,Poorly hydrated
+Tony,Chapman,Masculino,18.0,1.67,66.0,no,yes,3,Sometimes,no,2,no,0,0,Sometimes,Public_Transportation,Normal_Weight,23.67,Normal weight,Sedentary,Moderate,Poorly hydrated
+Nathan,Phillips,Masculino,19.0,1.8,60.0,yes,yes,1,Always,no,1,yes,0,0,no,Motorbike,Normal_Weight,18.52,Normal weight,Sedentary,Moderate,Poorly hydrated
+Margaret,Nicholson,Femenino,18.0,1.72,53.0,yes,yes,3,Sometimes,no,2,no,0,2,Sometimes,Public_Transportation,Insufficient_Weight,17.92,Underweight,Sedentary,High,Poorly hydrated
+Johnny,Hunter,Masculino,20.0,1.56,45.0,no,no,3,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Normal_Weight,18.49,Underweight,Moderately active,Moderate,Poorly hydrated
+Gregory,Fowler,Masculino,19.0,,,no,yes,20.846,Sometimes,no,214,yes,0,0,no,Public_Transportation,Insufficient_Weight,,Obesity Class III,Sedentary,Low,Well hydrated
+Elizabeth,Nunez,Femenino,,156.948,,no,yes,1,Frequently,no,1,no,0,1,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Joseph,Carroll,Masculino,21.0,1.52,42.0,no,yes,1,Frequently,no,1,no,0,0,Sometimes,Public_Transportation,Insufficient_Weight,18.18,Underweight,Sedentary,Moderate,Poorly hydrated
+Victoria,Thomas,Femenino,,,,no,yes,2.857.787,Frequently,no,1,no,1,0,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Angela,Hill,Femenino,21.0,1.52,42.0,no,yes,1,Frequently,no,1,no,0,0,Sometimes,Public_Transportation,Insufficient_Weight,18.18,Underweight,Sedentary,Moderate,Poorly hydrated
+Jessica,Mckinney,Femenino,,,52.0,yes,yes,3,Frequently,no,2,no,1,1,no,Public_Transportation,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Katie,Taylor,Femenino,,,52.0,yes,yes,3,Frequently,no,2,no,1,1,no,Public_Transportation,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Megan,Jones,Femenino,,1.7,50.0,no,yes,3.240.578,Sometimes,no,1,no,2,1,Sometimes,Public_Transportation,Insufficient_Weight,17.3,Underweight,Moderately active,Moderate,Poorly hydrated
+Nathan,Brown,Masculino,,,,yes,yes,3.904.858,Frequently,no,2,no,1,0,no,Public_Transportation,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Kayla,Watson,Femenino,,164.603,,yes,yes,3.590.039,Frequently,no,27,no,0,0,no,Public_Transportation,Insufficient_Weight,,Obesity Class III,Sedentary,Moderate,Well hydrated
+Ashley,Benson,Femenino,18.0,,,no,yes,3,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Steven,Kirby,Masculino,,,,yes,yes,3.821.168,Sometimes,no,2,no,2,1,no,Automobile,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Spencer,Arnold,Masculino,,,,yes,yes,4,Sometimes,no,2,no,2,0,no,Automobile,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Christopher,Jordan,Masculino,,,,yes,yes,4,Sometimes,no,2,no,2,0,no,Automobile,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Nancy,Moses,Femenino,,,,yes,yes,3,Frequently,no,2,no,0,1,no,Public_Transportation,Insufficient_Weight,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Angela,Moore,Femenino,,174.379,50.0,no,yes,4,Frequently,no,1,no,2,1,Sometimes,Public_Transportation,Insufficient_Weight,0.0,Underweight,Moderately active,Moderate,Poorly hydrated
+Ashley,Yu,Femenino,,,42.0,no,no,1.259.803,Frequently,no,1,no,137,0,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Active,Moderate,Poorly hydrated
+Brittany,Robbins,Femenino,19.0,,42.0,no,no,1.273.128,Frequently,no,170,no,0,1,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Sedentary,Moderate,Well hydrated
+Julie,Thompson,Femenino,,,,no,yes,3,Sometimes,no,2,no,3,0,Sometimes,Public_Transportation,Normal_Weight,,Obesity Class III,Active,Moderate,Poorly hydrated
+Joshua,Kelly,Masculino,18.0,,60.0,yes,yes,4,Sometimes,no,2,no,2,0,no,Automobile,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Abigail,Huffman,Femenino,,,,yes,yes,4,Sometimes,no,2,no,2,0,no,Automobile,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Christina,Potter,Femenino,,,,yes,yes,4,Sometimes,no,2,no,2,0,no,Automobile,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Mark,Mcdonald,Masculino,,,45.0,no,no,3,Frequently,no,128,yes,160,0,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Active,Moderate,Well hydrated
+Caitlin,Chavez,Femenino,,,,no,yes,1,Frequently,no,1,no,0,0,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Lori,Zhang,Femenino,,,,no,yes,1,Frequently,no,1,no,0,0,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Angelica,Young,Femenino,,1.7,50.0,no,yes,3.238.258,Frequently,no,2,no,0,1,Sometimes,Walking,Normal_Weight,17.3,Underweight,Sedentary,Moderate,Poorly hydrated
+Zachary,Wu,Masculino,,,50.0,yes,yes,3.804.944,Frequently,no,160,no,0,0,no,Public_Transportation,Insufficient_Weight,,Obesity Class III,Sedentary,Moderate,Well hydrated
+Howard,House,Masculino,,,,yes,yes,3.762.778,Sometimes,no,2,no,2,1,no,Automobile,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Kenneth,Diaz,Masculino,,178.656,50.0,no,yes,4,Sometimes,no,1,no,2,1,Sometimes,Public_Transportation,Insufficient_Weight,0.0,Underweight,Moderately active,Moderate,Poorly hydrated
+Vincent,Hunt,Masculino,18.0,,60.0,yes,yes,4,Sometimes,no,2,no,2,0,no,Automobile,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Amanda,Harper,Femenino,,,,yes,yes,4,Sometimes,no,2,no,2,0,no,Automobile,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Julie,Peterson,Femenino,,,,no,no,2.893.778,Frequently,no,1,yes,1,0,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Megan,Jones,Femenino,,,,yes,yes,4,Sometimes,no,1,no,2,1,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Moderately active,High,Poorly hydrated
+Francisco,Johnson,Masculino,21.0,1.52,42.0,no,yes,1,Frequently,no,1,no,0,0,Sometimes,Public_Transportation,Insufficient_Weight,18.18,Underweight,Sedentary,Moderate,Poorly hydrated
+Julie,Smith,Femenino,21.0,1.52,42.0,no,yes,1,Frequently,no,1,no,0,0,Sometimes,Public_Transportation,Insufficient_Weight,18.18,Underweight,Sedentary,Moderate,Poorly hydrated
+Aaron,Warren,Masculino,,,52.0,yes,yes,3,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Moderately active,High,Poorly hydrated
+Keith,Henry,Masculino,,,50.0,no,yes,3.471.536,Sometimes,no,1,no,2,1,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Juan,Martin,Masculino,,167.231,,no,yes,3.488.342,Sometimes,no,167,no,2,1,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Well hydrated
+Donna,Boyer,Femenino,,,,no,yes,2.645.858,Sometimes,no,236,no,0,1,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Sedentary,Moderate,Well hydrated
+Holly,Osborne,Femenino,,182.525,,yes,yes,3.887.906,Sometimes,no,2,no,2,0,no,Automobile,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Gail,Molina,Femenino,,,,yes,yes,3,Frequently,no,200,no,126,0,no,Public_Transportation,Insufficient_Weight,,Obesity Class III,Active,Moderate,Well hydrated
+Jessica,Hunt,Femenino,,,50.0,no,yes,3.998.618,Frequently,no,1,no,2,1,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Jillian,Finley,Femenino,,,42.0,no,yes,1.226.342,Frequently,no,1,no,0,0,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Donna,Lynch,Femenino,,,,yes,yes,4,Sometimes,no,2,no,2,0,no,Automobile,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Mary,Lewis,Femenino,,180.671,,yes,yes,4,Sometimes,no,2,no,2,0,no,Automobile,Insufficient_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Douglas,Parks,Masculino,,153.535,42.0,no,yes,1,Frequently,no,150,no,0,1,Sometimes,Public_Transportation,Insufficient_Weight,0.0,Underweight,Sedentary,Moderate,Well hydrated
+Timothy,Nichols,Masculino,,,,no,yes,1.578.521,Sometimes,no,2,no,2,1,no,Automobile,Overweight_Level_I,,Obesity Class III,Moderately active,Low,Poorly hydrated
+Tina,Blackwell,Femenino,21.0,,,no,yes,19.154,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Hannah,Castaneda,Femenino,21.0,1.62,70.0,no,yes,1,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.67,Overweight,Moderately active,Moderate,Poorly hydrated
+Thomas,Moore,Masculino,21.0,1.62,70.0,no,yes,1,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.67,Overweight,Moderately active,Moderate,Poorly hydrated
+Jesse,Daniels,Masculino,,,,yes,yes,1,Sometimes,no,2,no,257,0,Sometimes,Automobile,Overweight_Level_I,,Obesity Class III,Active,High,Poorly hydrated
+Scott,Estrada,Masculino,,,,yes,yes,3,Frequently,no,2,no,0,2,Sometimes,Public_Transportation,Overweight_Level_I,,Obesity Class III,Sedentary,High,Poorly hydrated
+Nicholas,Decker,Masculino,20.0,,,yes,yes,3.292.386,Sometimes,no,3,no,2,0,Sometimes,Public_Transportation,Overweight_Level_I,,Obesity Class III,Moderately active,High,Poorly hydrated
+Amber,Sanchez,Femenino,,180.179,,no,yes,2.488.189,Sometimes,no,2,no,2,0,no,Automobile,Overweight_Level_I,,Obesity Class III,Moderately active,Low,Poorly hydrated
+Sharon,Hendrix,Femenino,,,70.0,no,yes,1,no,no,201,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,,Obesity Class III,Moderately active,Moderate,Well hydrated
+Joseph,May,Masculino,,,,yes,yes,3,Sometimes,no,2,no,0,2,Sometimes,Public_Transportation,Overweight_Level_I,,Obesity Class III,Sedentary,High,Poorly hydrated
+Gabriel,Wheeler,Masculino,,,,yes,yes,1.198.643,Sometimes,no,1,no,0,0,Sometimes,Automobile,Overweight_Level_I,,Obesity Class III,Sedentary,High,Poorly hydrated
+John,Hunter,Masculino,,,,yes,yes,1.555.557,Sometimes,no,1,no,0,0,Sometimes,Automobile,Overweight_Level_I,,Obesity Class III,Sedentary,High,Poorly hydrated
+Jennifer,Sanders,Femenino,21.0,1.62,70.0,no,yes,1,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.67,Overweight,Moderately active,Moderate,Poorly hydrated
+Keith,Simon,Masculino,,,,yes,yes,1.047.197,Sometimes,no,2,no,0,0,Sometimes,Automobile,Overweight_Level_I,,Obesity Class III,Sedentary,High,Poorly hydrated
+Christopher,Smith,Masculino,,,,yes,yes,1,Sometimes,no,2,no,1,0,no,Automobile,Overweight_Level_II,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Kelly,Lawrence,Femenino,21.0,1.62,70.0,no,yes,1,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.67,Overweight,Moderately active,Moderate,Poorly hydrated
+George,Thomas,Masculino,21.0,1.62,70.0,no,yes,1,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.67,Overweight,Moderately active,Moderate,Poorly hydrated
+Derrick,Johnson,Masculino,21.0,1.62,70.0,no,yes,1,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.67,Overweight,Moderately active,Moderate,Poorly hydrated
+Stanley,Logan,Masculino,21.0,1.62,70.0,no,yes,1,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.67,Overweight,Moderately active,Moderate,Poorly hydrated
+Elizabeth,Nguyen,Femenino,21.0,1.62,70.0,no,yes,1,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.67,Overweight,Moderately active,Moderate,Poorly hydrated
+Terry,Roberts,Masculino,26.0,,80.0,yes,yes,1.193.589,Sometimes,no,2,no,2,0,Sometimes,Public_Transportation,Overweight_Level_I,,Obesity Class III,Moderately active,High,Poorly hydrated
+Emily,Ortega,Femenino,,,,yes,yes,3,Sometimes,no,1,no,0,0,Sometimes,Automobile,Overweight_Level_I,,Obesity Class III,Sedentary,High,Poorly hydrated
+Kevin,Wilson,Masculino,27.0,1.55,,no,yes,1.704.828,Sometimes,no,1,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Paul,Owens,Masculino,,,,yes,no,2.725.012,Sometimes,no,162,no,1,0,Sometimes,Automobile,Overweight_Level_I,,Obesity Class III,Moderately active,High,Well hydrated
+Isabella,King,Femenino,,,65.0,yes,yes,1,Sometimes,no,2,yes,0,1,no,Public_Transportation,Overweight_Level_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Philip,Nguyen,Masculino,,1.6,65.0,yes,yes,2.973.504,Sometimes,no,2,yes,0,0,Sometimes,Public_Transportation,Overweight_Level_I,25.39,Overweight,Sedentary,High,Poorly hydrated
+Donna,Smith,Femenino,,,,no,yes,2.608.055,Sometimes,no,186,no,2,1,no,Automobile,Overweight_Level_I,,Obesity Class III,Moderately active,Low,Well hydrated
+John,Roberts,Masculino,,,75.0,yes,yes,3,Sometimes,no,2,no,1,1,no,Public_Transportation,Normal_Weight,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Christina,Rojas,Femenino,21.0,,,no,yes,1.259.628,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Paul,Rose,Masculino,21.0,1.62,70.0,no,yes,1,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.67,Overweight,Moderately active,Moderate,Poorly hydrated
+Lauren,Robinson,Femenino,21.0,1.62,70.0,no,yes,1,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.67,Overweight,Moderately active,Moderate,Poorly hydrated
+Adrienne,Cook,Femenino,21.0,1.62,70.0,no,yes,1,no,no,3,no,1,0,Sometimes,Public_Transportation,Overweight_Level_I,26.67,Overweight,Moderately active,Moderate,Poorly hydrated
+Marcia,Ortiz,Femenino,,,,yes,yes,2.870.005,Sometimes,no,115,no,0,1,Sometimes,Automobile,Overweight_Level_I,,Obesity Class III,Sedentary,High,Well hydrated
+Cody,Martinez,Masculino,,,,yes,yes,1.322.087,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Moderately active,High,Poorly hydrated
+Joshua,Jones,Masculino,,175.463,,yes,yes,2.041.558,Sometimes,no,239,no,1,0,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Moderately active,High,Well hydrated
+Sarah,Thompson,Femenino,,1.72,,yes,yes,2.468.421,Sometimes,no,2,no,2,1,no,Public_Transportation,Overweight_Level_II,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Brittany,Barrera,Femenino,,1.65,80.0,yes,yes,3,Sometimes,no,2,no,0,2,no,Public_Transportation,Overweight_Level_II,29.38,Overweight,Sedentary,Moderate,Poorly hydrated
+Jason,Robinson,Masculino,,,,yes,yes,1.124.977,Sometimes,no,276,no,1,1,Sometimes,Automobile,Overweight_Level_II,,Obesity Class III,Moderately active,High,Well hydrated
+John,Hill,Masculino,,,,yes,yes,1.890.213,Sometimes,no,2,no,0,137,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+Michelle,Carpenter,Femenino,,,,yes,yes,1.888.067,Sometimes,no,2,no,0,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+Christopher,Simmons,Masculino,,1.7,,yes,yes,3,Sometimes,no,3,no,1,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Moderately active,High,Poorly hydrated
+Mario,Wolfe,Masculino,,,,yes,yes,3,Sometimes,no,118,no,0,0,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Well hydrated
+Herbert,Rogers,Masculino,,,,yes,yes,2.812.283,Sometimes,no,3,no,0,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+Mark,Wu,Masculino,,,,yes,yes,2.278.652,Sometimes,no,2,no,181,194,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Active,High,Poorly hydrated
+Christopher,Richards,Masculino,,,,yes,yes,2.597.608,Sometimes,no,2,no,0,0,Frequently,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+Andre,Clark,Masculino,,,,no,yes,3,Sometimes,no,2,no,1,0,no,Automobile,Overweight_Level_II,,Obesity Class III,Moderately active,Low,Poorly hydrated
+Thomas,Maynard,Masculino,,1.65,80.0,yes,yes,3,Sometimes,no,2,no,1,2,no,Public_Transportation,Overweight_Level_II,29.38,Overweight,Moderately active,Moderate,Poorly hydrated
+Kevin,Rodriguez,Masculino,,,,yes,yes,3,Sometimes,no,1,no,0,148,no,Automobile,Overweight_Level_II,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+John,Humphrey,Masculino,,,,yes,no,1,Sometimes,no,1,no,0,0,no,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Daniel,Mitchell,Masculino,,,,yes,no,1,Sometimes,no,1,no,1,0,no,Public_Transportation,Overweight_Level_II,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Jamie,Clark,Femenino,,1.5,,yes,no,1.474.836,Sometimes,no,2,no,0,1,no,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Dale,Kim,Masculino,,,,yes,no,3.986.652,Sometimes,no,2,no,1,1,no,Public_Transportation,Overweight_Level_II,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Kathleen,Bishop,Femenino,,,,yes,yes,1.546.665,Sometimes,no,3,no,1,0,Sometimes,Automobile,Overweight_Level_II,,Obesity Class III,Moderately active,High,Poorly hydrated
+Mark,Dixon,Masculino,,,,yes,no,3.339.914,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Moderately active,High,Poorly hydrated
+Sharon,Turner,Femenino,,,,yes,no,3.884.861,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Moderately active,High,Poorly hydrated
+Sabrina,Riggs,Femenino,18.0,,,yes,yes,3,Sometimes,no,288,no,1,0,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Moderately active,High,Well hydrated
+Tyler,Anderson,Masculino,,,,yes,yes,1.802.305,Sometimes,no,2,no,0,0,no,Automobile,Overweight_Level_II,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Michael,Taylor,Masculino,,,83.0,yes,yes,1,Sometimes,yes,3,no,0,0,Sometimes,Public_Transportation,Normal_Weight,,Obesity Class III,Sedentary,High,Poorly hydrated
+Clayton,Evans,Masculino,,,,yes,no,3,Sometimes,no,2,no,173,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Active,High,Poorly hydrated
+Kristin,Moss,Femenino,,,,yes,yes,2.687.502,Sometimes,no,2,no,222,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Active,High,Poorly hydrated
+Bridget,Osborne,Femenino,,,,yes,yes,2.279.546,Sometimes,no,2,no,0,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+Amanda,Lewis,Femenino,45.0,,,yes,yes,3,Sometimes,no,1,no,0,0,no,Automobile,Overweight_Level_II,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Travis,Barry,Masculino,,,,yes,yes,1.631.184,Sometimes,no,2,no,0,0,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+Pam,Nelson,Femenino,,,,yes,yes,194.671,Sometimes,no,2,no,0,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+David,Cervantes,Masculino,,,80.0,yes,yes,3,Sometimes,no,214,no,0,0,no,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,Moderate,Well hydrated
+Jordan,Young,Masculino,,,,yes,yes,1.894.384,Sometimes,no,2,no,0,0,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+Deborah,Tanner,Femenino,,,,yes,yes,3,Sometimes,no,2,no,0,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+John,Moore,Masculino,,,,yes,yes,2.449.067,Sometimes,no,2,no,1,197,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Moderately active,High,Poorly hydrated
+Jacob,Walker,Masculino,,,,yes,yes,3,Sometimes,no,2,no,1,0,no,Automobile,Overweight_Level_II,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Laura,Peters,Femenino,,,,yes,yes,3,Sometimes,no,3,no,2,1,no,Automobile,Overweight_Level_II,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Samantha,Long,Femenino,,,,yes,no,1.104.642,Sometimes,no,1,no,0,1,no,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Timothy,Robertson,Masculino,,,,yes,yes,1.977.221,Sometimes,no,3,no,1,0,Sometimes,Automobile,Overweight_Level_II,,Obesity Class III,Moderately active,High,Poorly hydrated
+Janice,Hernandez,Femenino,,,,yes,yes,1.081.805,Sometimes,no,2,no,0,0,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+Gordon,Keller,Masculino,,,,yes,yes,1.471.053,Sometimes,no,2,no,0,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+Kathy,Brown,Femenino,,1.65,80.0,yes,yes,3,Sometimes,no,2,no,0,2,no,Public_Transportation,Overweight_Level_II,29.38,Overweight,Sedentary,Moderate,Poorly hydrated
+Laura,Rodriguez,Femenino,,,,yes,yes,1.599.464,Sometimes,no,2,no,0,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+Yvonne,Bailey,Femenino,,1.7,,yes,yes,3,Sometimes,no,3,no,1,1,Frequently,Public_Transportation,Overweight_Level_II,,Obesity Class III,Moderately active,High,Poorly hydrated
+Brian,Mills,Masculino,,,,yes,no,1.402.771,Sometimes,no,3,no,0,0,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+Tiffany,Sims,Femenino,,,,yes,yes,3,Sometimes,no,2,no,1,0,no,Automobile,Overweight_Level_II,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Emma,Bryant,Femenino,,1.65,80.0,yes,yes,3,Sometimes,no,2,no,1,2,no,Public_Transportation,Overweight_Level_II,29.38,Overweight,Moderately active,Moderate,Poorly hydrated
+Stacie,Stephens,Femenino,,,,yes,yes,1.724.887,Sometimes,no,3,no,1,0,Sometimes,Automobile,Overweight_Level_II,,Obesity Class III,Moderately active,High,Poorly hydrated
+Jessica,Munoz,Femenino,,15.891,,yes,no,3.856.434,Sometimes,no,3,yes,3,0,Sometimes,Automobile,Normal_Weight,,Obesity Class III,Active,High,Poorly hydrated
+Jessica,Munoz,Femenino,,15.891,,yes,no,3.856.434,Sometimes,no,2,no,132,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Active,High,Poorly hydrated
+James,Bradford,Masculino,,,,yes,yes,3,Sometimes,no,3,no,105,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Active,High,Poorly hydrated
+John,Miller,Masculino,,,,yes,yes,2.174.968,Sometimes,no,2,no,0,1,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+Patrick,Phillips,Masculino,,,,yes,yes,2.937.607,Sometimes,no,199,no,1,0,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Moderately active,High,Well hydrated
+Jeanette,Barnett,Femenino,,,,yes,yes,1.313.403,Sometimes,no,195,no,1,0,no,Automobile,Overweight_Level_II,,Obesity Class III,Moderately active,Moderate,Well hydrated
+Kristen,Hunter,Femenino,,,,yes,yes,1,Sometimes,no,2,no,0,0,Sometimes,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,High,Poorly hydrated
+Andrew,Grant,Masculino,,,,yes,yes,3,Sometimes,no,3,no,3,2,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Active,Moderate,Poorly hydrated
+Sharon,Jensen,Femenino,,,,yes,yes,3,Sometimes,no,2,no,0,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Jessica,Shaw,Femenino,,,,yes,yes,3,Sometimes,no,3,no,3,2,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Active,Moderate,Poorly hydrated
+Brooke,Schmidt,Femenino,,1.78,,yes,yes,1.476.204,Sometimes,no,3,no,205,0,Frequently,Automobile,Obesity_Type_I,,Obesity Class III,Active,High,Poorly hydrated
+Kelly,Strickland,Femenino,,,,yes,yes,3,Sometimes,no,1,no,0,0,Sometimes,Automobile,Obesity_Type_I,,Obesity Class III,Sedentary,High,Poorly hydrated
+Jason,Mclaughlin,Masculino,,,90.0,yes,yes,3,Sometimes,no,3,no,1,1,Sometimes,Automobile,Obesity_Type_I,,Obesity Class III,Moderately active,High,Poorly hydrated
+Justin,Sharp,Masculino,,,78.0,yes,yes,1,Sometimes,no,2,no,1,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Luis,White,Masculino,23.0,,,yes,yes,1,Sometimes,no,2,no,0,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+George,Randall,Masculino,,,,yes,yes,3,Sometimes,no,1,no,1,1,Sometimes,Public_Transportation,Obesity_Type_I,,Obesity Class III,Moderately active,High,Poorly hydrated
+Jeffrey,Smith,Masculino,23.0,,,yes,yes,3,Sometimes,no,1,no,0,0,Sometimes,Public_Transportation,Normal_Weight,,Obesity Class III,Sedentary,High,Poorly hydrated
+Jeffrey,Smith,Masculino,23.0,,,yes,yes,3,Sometimes,no,203,no,0,1,Sometimes,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,High,Well hydrated
+Garrett,Sutton,Masculino,,,,yes,yes,3,Sometimes,no,3,no,1,1,Sometimes,Public_Transportation,Obesity_Type_I,,Obesity Class III,Moderately active,High,Poorly hydrated
+Lawrence,Riddle,Masculino,,,,yes,yes,3,Sometimes,no,3,no,1,1,Sometimes,Public_Transportation,Obesity_Type_I,,Obesity Class III,Moderately active,High,Poorly hydrated
+Jonathan,Sampson,Masculino,176.739,,,yes,yes,3,Sometimes,no,2,no,0,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Latasha,Day,Femenino,,,,yes,yes,3,Sometimes,no,1,no,0,0,Sometimes,Automobile,Obesity_Type_I,,Obesity Class III,Sedentary,High,Poorly hydrated
+Barry,Vega,Masculino,29.0,,,yes,yes,3,Sometimes,no,211,no,0,0,Sometimes,Automobile,Obesity_Type_I,,Obesity Class III,Sedentary,High,Well hydrated
+Jeremy,Contreras,Masculino,,,,yes,yes,1,Sometimes,no,2,no,0,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Diana,Hall,Femenino,,,82.0,yes,yes,1,Sometimes,no,2,no,0,1,Sometimes,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,High,Poorly hydrated
+Michelle,Reyes,Femenino,,1.65,,yes,yes,2.964.024,Sometimes,no,3,no,1,1,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Cassie,Park,Femenino,,,90.0,yes,yes,3,Sometimes,no,3,no,1,1,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Scott,Mullins,Masculino,,,,yes,yes,3,Sometimes,no,3,no,3,2,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Active,Moderate,Poorly hydrated
+Christina,Padilla,Femenino,,,,yes,yes,3,Sometimes,no,3,no,3,2,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Active,Moderate,Poorly hydrated
+Justin,Carter,Masculino,,,,yes,yes,2.970.675,Sometimes,no,2,no,0,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Nathan,Rodriguez,Masculino,,162.826,,yes,yes,1,Sometimes,no,23,no,1,173,Sometimes,Public_Transportation,Obesity_Type_I,,Obesity Class III,Moderately active,High,Well hydrated
+Steve,Potts,Masculino,,,78.0,yes,yes,1,Sometimes,no,2,no,1,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Andrew,Diaz,Masculino,,,,yes,yes,1,Sometimes,no,2,no,1,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Christopher,Tucker,Masculino,,,,yes,yes,3,Sometimes,no,2,no,0,1,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Carrie,Aguilar,Femenino,,,82.0,yes,yes,1,Sometimes,no,2,no,0,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Teresa,Vaughan,Femenino,,,82.0,yes,yes,1,Sometimes,no,2,no,0,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Lacey,Davis,Femenino,,,,yes,yes,3,Sometimes,no,236,no,0,0,Sometimes,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,High,Well hydrated
+Tammy,Mccoy,Femenino,,,,yes,yes,3,Sometimes,no,3,no,1,1,Sometimes,Public_Transportation,Obesity_Type_I,,Obesity Class III,Moderately active,High,Poorly hydrated
+Nicole,Gonzalez,Femenino,,,,yes,yes,3,Sometimes,no,2,no,173,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Active,Moderate,Poorly hydrated
+James,Reed,Masculino,,,,yes,yes,3,Sometimes,no,1,no,0,0,Sometimes,Automobile,Obesity_Type_I,,Obesity Class III,Sedentary,High,Poorly hydrated
+Jennifer,Brown,Femenino,,,,yes,yes,3,Sometimes,no,3,no,3,2,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Active,Moderate,Poorly hydrated
+Sara,Smith,Femenino,,,,yes,yes,3,Sometimes,no,3,no,3,2,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Active,Moderate,Poorly hydrated
+Thomas,Davis,Masculino,,,,yes,yes,2.976.098,Sometimes,no,1,no,1,0,Sometimes,Public_Transportation,Insufficient_Weight,,Obesity Class III,Moderately active,High,Poorly hydrated
+Thomas,Davis,Masculino,,,,yes,yes,2.976.098,Sometimes,no,2,no,0,139,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Paul,Alvarez,Masculino,,,,yes,yes,3,Sometimes,no,3,no,3,2,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Active,Moderate,Poorly hydrated
+Jose,Williamson,Masculino,,152.906,,yes,yes,3,Sometimes,no,1,no,0,0,Sometimes,Automobile,Obesity_Type_I,,Obesity Class III,Sedentary,High,Poorly hydrated
+Kevin,Warren,Masculino,,165.731,90.0,yes,yes,3,Sometimes,no,3,no,0,1,Sometimes,Automobile,Obesity_Type_I,0.0,Underweight,Sedentary,High,Poorly hydrated
+Claudia,Frank,Femenino,,,90.0,yes,yes,3,Sometimes,no,3,no,1,0,Sometimes,Automobile,Obesity_Type_I,,Obesity Class III,Moderately active,High,Poorly hydrated
+Taylor,Jones,Femenino,,,,yes,yes,1,Sometimes,no,2,no,0,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Katelyn,Williams,Femenino,,,,yes,yes,1,Sometimes,no,2,no,0,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Denise,Hernandez,Femenino,,,,yes,yes,1,Sometimes,no,2,no,0,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Thomas,Lynn,Masculino,,,,yes,yes,1,Sometimes,no,2,no,0,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Shannon,Lutz,Femenino,18.0,1.683,,yes,yes,3,Sometimes,no,178,no,1,1,Sometimes,Public_Transportation,Obesity_Type_I,,Obesity Class III,Moderately active,High,Well hydrated
+Linda,Simpson,Femenino,23.0,17.425,,yes,yes,3,Sometimes,no,201,no,1,0,Sometimes,Public_Transportation,Obesity_Type_I,,Obesity Class III,Moderately active,High,Well hydrated
+Zachary,Brown,Masculino,18.0,,,yes,yes,1.202.179,Sometimes,no,236,no,1,148,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Moderately active,Moderate,Well hydrated
+Sarah,Johnson,Femenino,,,,yes,yes,3,Sometimes,no,2,no,1,2,no,Walking,Overweight_Level_II,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Olivia,Ruiz,Femenino,,,,yes,yes,3,Sometimes,no,3,no,1,1,Sometimes,Public_Transportation,Obesity_Type_I,,Obesity Class III,Moderately active,High,Poorly hydrated
+Todd,Sanders,Masculino,,,,yes,yes,2.880.794,Sometimes,no,162,no,0,0,Sometimes,Automobile,Obesity_Type_I,,Obesity Class III,Sedentary,High,Well hydrated
+Scott,Chase,Masculino,,,,yes,yes,2.967.089,Sometimes,no,2,no,0,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Thomas,Parker,Masculino,,,,yes,yes,3,Sometimes,no,2,no,0,1,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Samuel,Thomas,Masculino,18.0,,,yes,yes,3,Sometimes,no,118,no,117,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Active,Moderate,Well hydrated
+Nicole,Harris,Femenino,,,,yes,yes,2.392.811,Sometimes,no,2,no,0,181,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Deborah,Smith,Femenino,,180.416,,yes,yes,3,Sometimes,no,3,no,22,0,no,Public_Transportation,Obesity_Type_I,,Obesity Class III,Active,Moderate,Poorly hydrated
+Juan,Hamilton,Masculino,,,,yes,yes,3,Sometimes,no,2,no,0,0,Sometimes,Public_Transportation,Obesity_Type_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+Michael,Hampton,Masculino,,,,yes,yes,1,Sometimes,no,1,no,0,0,Sometimes,Automobile,Obesity_Type_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+Brandon,Smith,Masculino,,,,yes,yes,3.990.925,Sometimes,no,1,no,200,0,no,Public_Transportation,Obesity_Type_II,,Obesity Class III,Active,Moderate,Poorly hydrated
+James,Ray,Masculino,,,,yes,yes,3,Sometimes,no,111,no,1,1,Sometimes,Public_Transportation,Obesity_Type_II,,Obesity Class III,Moderately active,High,Well hydrated
+Jeffrey,Odonnell,Masculino,,1.75,,yes,yes,3,Sometimes,no,205,no,0,0,Sometimes,Automobile,Obesity_Type_II,,Obesity Class III,Sedentary,High,Well hydrated
+Leslie,Vazquez,Femenino,,,,yes,yes,3,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Obesity_Type_II,,Obesity Class III,Moderately active,High,Poorly hydrated
+Tony,Pierce,Masculino,,,,yes,yes,3.169.089,Sometimes,no,102,no,1,0,no,Automobile,Obesity_Type_II,,Obesity Class III,Moderately active,Moderate,Well hydrated
+Isaac,Williams,Masculino,,1.75,120.0,yes,yes,3,Sometimes,yes,2,no,1,0,Frequently,Public_Transportation,Obesity_Type_I,39.18,Obesity Class II,Moderately active,High,Poorly hydrated
+Karen,Harris,Femenino,,,,yes,yes,191.863,Sometimes,no,1,no,139,1,no,Public_Transportation,Obesity_Type_II,,Obesity Class III,Active,Moderate,Poorly hydrated
+Michael,Figueroa,Masculino,,,,yes,yes,2.454.432,Sometimes,no,1,no,1,0,no,Public_Transportation,Obesity_Type_II,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Joshua,Escobar,Masculino,,,,yes,yes,3,Sometimes,no,266,no,1,0,Sometimes,Public_Transportation,Obesity_Type_II,,Obesity Class III,Moderately active,High,Well hydrated
+Matthew,Delgado,Masculino,,,,yes,yes,2.915.921,Sometimes,no,19,no,1,0,Sometimes,Automobile,Obesity_Type_II,,Obesity Class III,Moderately active,High,Well hydrated
+Joseph,Mcdonald,Masculino,,,,yes,yes,3,Sometimes,no,2,no,1,1,Sometimes,Public_Transportation,Obesity_Type_II,,Obesity Class III,Moderately active,High,Poorly hydrated
+Joshua,Carter,Masculino,,,,yes,yes,1.487.674,Sometimes,no,101,no,100,110,no,Public_Transportation,Obesity_Type_II,,Obesity Class III,Active,Moderate,Well hydrated
+Brittney,Quinn,Femenino,,175.596,,yes,yes,3,Sometimes,no,202,no,1,0,Sometimes,Automobile,Obesity_Type_II,,Obesity Class III,Moderately active,High,Well hydrated
+Sylvia,Duran,Femenino,,,,yes,yes,3.656.401,Sometimes,no,198,no,0,0,Sometimes,Automobile,Obesity_Type_II,,Obesity Class III,Sedentary,High,Well hydrated
+David,Green,Masculino,,,,yes,yes,2.850.948,Sometimes,no,187,no,1,0,no,Automobile,Obesity_Type_II,,Obesity Class III,Moderately active,Moderate,Well hydrated
+Brandon,Johnson,Masculino,,,,yes,yes,2.956.422,Sometimes,no,231,no,149,0,Sometimes,Public_Transportation,Obesity_Type_II,,Obesity Class III,Active,High,Well hydrated
+Melinda,Kelley,Femenino,,,,yes,yes,3,Sometimes,no,183,no,1,0,Sometimes,Public_Transportation,Obesity_Type_II,,Obesity Class III,Moderately active,High,Well hydrated
+Cesar,Burgess,Masculino,,,,yes,yes,2.040.582,Sometimes,no,1,no,167,0,no,Public_Transportation,Obesity_Type_II,,Obesity Class III,Active,Moderate,Poorly hydrated
+Anna,Coleman,Femenino,,,,yes,yes,3,Sometimes,no,167,no,0,1,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Alyssa,Delacruz,Femenino,,,,yes,yes,3,Sometimes,no,287,no,1,1,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Moderately active,High,Well hydrated
+Charles,Grimes,Masculino,26.0,,,yes,yes,3,Sometimes,no,271,no,0,0,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Courtney,Jones,Femenino,,,,yes,yes,3,Sometimes,no,116,no,1,0,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Moderately active,High,Well hydrated
+Bryan,Montoya,Masculino,26.0,,,yes,yes,3,Sometimes,no,255,no,0,0,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Emily,Rodriguez,Femenino,,,,yes,yes,3,Sometimes,no,1,no,0,0,no,Automobile,Normal_Weight,,Obesity Class III,Sedentary,Moderate,Poorly hydrated
+Jennifer,Garcia,Femenino,,,,yes,yes,3,Sometimes,no,221,no,0,1,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Taylor,Sherman,Masculino,26.0,,,yes,yes,3,Sometimes,no,256,no,0,0,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Christina,Walsh,Femenino,,,,yes,yes,3,Sometimes,no,16,no,0,0,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+William,Allen,Masculino,26.0,,,yes,yes,3,Sometimes,no,270,no,0,0,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Christopher,Wade,Masculino,,,,yes,yes,3,Sometimes,no,148,no,0,1,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Sheila,Hunter,Femenino,,,,yes,yes,3,Sometimes,no,191,no,0,1,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Joseph,Harvey,Masculino,26.0,,,yes,yes,3,Sometimes,no,272,no,0,0,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Jose,Johnson,Masculino,26.0,,,yes,yes,3,Sometimes,no,1,no,1,0,Sometimes,Public_Transportation,Obesity_Type_I,,Obesity Class III,Moderately active,High,Poorly hydrated
+Sheri,Hill,Femenino,,,,yes,yes,3,Sometimes,no,154,no,1,0,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Moderately active,High,Well hydrated
+Christopher,Kelley,Masculino,,,,yes,yes,3,Sometimes,no,1,no,1,0,no,Public_Transportation,Overweight_Level_I,,Obesity Class III,Moderately active,Moderate,Poorly hydrated
+Brian,Smith,Masculino,,,,yes,yes,3,Sometimes,no,2,no,0,2,Sometimes,Walking,Normal_Weight,,Obesity Class III,Sedentary,High,Poorly hydrated
+Charles,Hamilton,Masculino,,,,yes,yes,3,Sometimes,no,245,no,0,1,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Christine,Allen,Femenino,,,,yes,yes,3,Sometimes,no,283,no,1,1,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Moderately active,High,Well hydrated
+Thomas,Lee,Masculino,26.0,,,yes,yes,3,Sometimes,no,258,no,0,0,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Julia,Smith,Femenino,,,,yes,yes,3,Sometimes,no,2,no,0,0,Sometimes,Public_Transportation,Overweight_Level_II,,Obesity Class III,Sedentary,High,Poorly hydrated
+John,Holmes,Masculino,,,,yes,yes,3,Sometimes,no,150,no,0,0,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Steven,Grant,Masculino,,162.456,,yes,yes,3,Sometimes,no,182,no,0,0,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Joseph,Hudson,Masculino,,,,yes,yes,3,Sometimes,no,275,no,0,1,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Kyle,Lynch,Masculino,26.0,,,yes,yes,3,Sometimes,no,262,no,0,0,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Daniel,Hicks,Masculino,26.0,164.599,,yes,yes,3,Sometimes,no,279,no,0,0,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Richard,Anderson,Masculino,,,,yes,yes,3,Sometimes,no,172,no,0,1,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+John,Harris,Masculino,,162.847,,yes,yes,3,Sometimes,no,249,no,0,0,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Sedentary,High,Well hydrated
+Anthony,Kelley,Masculino,,,,yes,yes,3,Sometimes,no,201,no,134,1,Sometimes,Public_Transportation,Obesity_Type_III,,Obesity Class III,Active,High,Well hydrated
